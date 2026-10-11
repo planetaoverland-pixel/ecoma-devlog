@@ -86,6 +86,22 @@
       "estado": "APROBADA",
       "aprobada_en": "2026-10-11T20:22:00+02:00",
       "intentos": 0
+    },
+    {
+      "n": 6,
+      "titulo": "Diario #6 · Dos Ecos nuevos: el Corredor y el Coro",
+      "fecha_hora": "2026-10-12T15:07:00+02:00",
+      "carpeta": "2026-10-12_diario06",
+      "imagenes": [
+        "1_corredor_dormido.jpg",
+        "2_corredor_salta.jpg",
+        "3_coro_pareja.jpg"
+      ],
+      "texto": "Diario #6 · Dos Ecos nuevos: el Corredor y el Coro\n\nEl Corredor se quedó atrapado huyendo y no ha dejado de correr. Duerme hecho un ovillo: si pasas de puntillas, no se entera. Si le despiertas, corre tanto como tú, y si te quedas al borde de un saliente bajo, salta a por tus pies.\n\nEl Coro son personas que se cristalizaron juntas. Uno solo es asustadizo: te sigue, te mira y se aparta. Pero si hay dos cerca, sus cristales vibran a la vez… y atacan juntos.\n\n1 · El Corredor dormido: de puntillas, puedes pasar\n2 · Te quedas en el borde: salta a por tus pies\n3 · Dos Coros juntos: el aura avisa del peligro\n\nYa se pueden probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de Ecos).\n\n— RAMSYS Game Studio\n\nEN: Two new Ecos: a sleeping runner that leaps for your feet, and a skittish pair that attacks together.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "version_juego": "Pre-alfa 0.1.6",
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-11T23:24:00+02:00",
+      "intentos": 0
     }
   ]
 }
