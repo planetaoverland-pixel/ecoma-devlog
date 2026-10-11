@@ -68,6 +68,22 @@
       "aprobada_en": "2026-10-11T19:55:00+02:00",
       "intentos": 0,
       "version_juego": "Pre-alfa 0.1.2"
+    },
+    {
+      "n": 5,
+      "titulo": "Diario #5 · Un vigilante que solo ve lo que se mueve",
+      "fecha_hora": "2026-10-12T13:07:00+02:00",
+      "carpeta": "2026-10-12_diario05",
+      "imagenes": [
+        "1_vigilante_quieto.jpg",
+        "2_vigilante_te_ve.jpg",
+        "3_despertador.jpg"
+      ],
+      "texto": "Diario #5 · Un vigilante que solo ve lo que se mueve\n\nNuevo enemigo en el laboratorio de pruebas: un vigilante que repite su ronda con la linterna. No oye casi nada, pero si te mueves dentro de su haz, te ve. La regla es simple: cuando te llegue la luz, quieto.\n\nY una herramienta nueva: un despertador. Le das cuerda, suena al rato y los Ecos van a escucharlo. Mientras están entretenidos, tú pasas por arriba.\n\n1 · Quieto dentro del haz: no te ve\n2 · Te mueves: te ve y viene a por ti\n3 · El despertador aparta al Eco y llegas a la salida\n\nYa se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de sigilo).\n\n— RAMSYS Game Studio\n\nEN: A flashlight guard that only spots movement, and an alarm clock to lure the Ecos away.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "version_juego": "Pre-alfa 0.1.3",
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-11T20:22:00+02:00",
+      "intentos": 0
     }
   ]
 }
