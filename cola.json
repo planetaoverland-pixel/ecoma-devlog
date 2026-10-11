@@ -1,0 +1,24 @@
+{
+  "_info": "Cola de publicaciones APROBADAS de @ecoma.game. La lee la tarea programada 'ECOMA · publicar diario de Instagram'. Solo entran publicaciones aprobadas por Chris. Estados: APROBADA, PUBLICADA, ERROR.",
+  "cuenta": {
+    "composio_alias": "ecoma",
+    "ig_user_id": "28506954562279595",
+    "usuario": "ecoma.game"
+  },
+  "reglas": {
+    "max_por_dia": 3,
+    "separacion_min_horas": 3,
+    "zona": "Europe/Madrid",
+    "max_intentos": 2
+  },
+  "publicaciones": [
+    {
+      "n": 1,
+      "titulo": "Diario #1",
+      "estado": "PUBLICADA",
+      "publicado_en": "2026-10-11T12:00:00+02:00",
+      "nota": "hora aproximada",
+      "enlace": "https://www.instagram.com/p/DeWZ8r8G9Gu/"
+    }
+  ]
+}
