@@ -33,10 +33,12 @@
         "3_web_movil.jpg"
       ],
       "texto": "Diario #2 · El prototipo ya se puede probar\n\nHoy he dado un paso que me hacía mucha ilusión: ECOMA ya se puede probar gratis en el navegador, en el móvil y en el PC, sin instalar nada.\n\nOjo: es un prototipo en fase pre-alfa, el primer escalón de todos. Los gráficos son bloques provisionales y habrá errores, pero lo importante ya se juega: moverse con peso, no hacer ruido y escapar de los Ecos.\n\nLe he montado su propia página en ramsys.es/games/ecoma: entras, pulsas play y despiertas en la sala blindada. Debajo puedes dejarme tu opinión, y la leo toda.\n\n1 · La portada de la web\n2 · El juego, directamente en la página\n3 · Así se ve en el móvil\n\n— RAMSYS Game Studio\n\nEN: The ECOMA pre-alpha prototype is now free to try in your browser — link in bio.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "PUBLICADA",
       "aprobada_en": "2026-10-11T19:55:00+02:00",
       "intentos": 0,
-      "version_juego": "Pre-alfa 0.1.2"
+      "version_juego": "Pre-alfa 0.1.2",
+      "publicado_en": "2026-10-11T21:08:41+02:00",
+      "enlace": "https://www.instagram.com/p/DeXX-bhGZQR/"
     },
     {
       "n": 3,
