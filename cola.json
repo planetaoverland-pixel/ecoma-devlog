@@ -19,6 +19,36 @@
       "publicado_en": "2026-10-11T12:00:00+02:00",
       "nota": "hora aproximada",
       "enlace": "https://www.instagram.com/p/DeWZ8r8G9Gu/"
+    },
+    {
+      "n": 2,
+      "titulo": "Diario #2 · La beta ya se puede jugar",
+      "fecha_hora": "2026-10-11T20:30:00+02:00",
+      "carpeta": "2026-10-11_diario02",
+      "imagenes": [
+        "1_web_portada.jpg",
+        "2_web_juega.jpg",
+        "3_web_movil.jpg"
+      ],
+      "texto": "Diario #2 · ¡La beta ya se puede jugar!\n\nHoy he dado un paso que me hacía mucha ilusión: ECOMA ya se juega gratis en el navegador, en el móvil y en el PC, sin instalar nada.\n\nLe he montado su propia página en ramsys.es/games/ecoma: entras, pulsas play y despiertas en la sala blindada. Debajo puedes dejarme tu opinión, y la leo toda.\n\n1 · La portada de la web\n2 · El juego, directamente en la página\n3 · Así se ve en el móvil\n\nEs una alfa: el arte son bloques provisionales y habrá errores. Justo para eso necesito testeadores.\n\n— RAMSYS Game Studio\n\nEN: The ECOMA beta is now playable for free in your browser — link in bio.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-11T17:54:00+02:00",
+      "intentos": 0
+    },
+    {
+      "n": 3,
+      "titulo": "Diario #3 · Un menú para pausar (y para hacer trampas)",
+      "fecha_hora": "2026-10-12T13:00:00+02:00",
+      "carpeta": "2026-10-12_diario03",
+      "imagenes": [
+        "1_pausa.jpg",
+        "2_testeador.jpg",
+        "3_habilidades.jpg"
+      ],
+      "texto": "Diario #3 · Un menú para pausar (y para hacer trampas)\n\nProbando la beta en el móvil me di cuenta de algo: no había forma de volver al menú sin recargar la página. Así que el botón MENÚ de la consola ahora abre una pausa.\n\nDentro está el modo testeador: sin daño, parkour al máximo, vendas extra o saltar a cualquier parte, todo al momento. Es para que quien pruebe la beta vaya directo a lo nuevo.\n\n1 · El menú de pausa\n2 · El modo testeador\n3 · Las habilidades, a un toque\n\n— RAMSYS Game Studio\n\nEN: New pause menu with a tester mode to jump anywhere and try the new stuff.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-11T17:54:00+02:00",
+      "intentos": 0
     }
   ]
 }
