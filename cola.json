@@ -19,6 +19,50 @@
       "publicado_en": "2026-10-11T12:00:00+02:00",
       "nota": "hora aproximada",
       "enlace": "https://www.instagram.com/p/DeWZ8r8G9Gu/"
+    },
+    {
+      "n": 2,
+      "titulo": "Diario #2 · El prototipo ya se puede probar",
+      "fecha_hora": "2026-10-12T13:00:00+02:00",
+      "carpeta": "2026-10-12_diario02",
+      "imagenes": [
+        "1_web_portada.jpg",
+        "2_web_juega.jpg",
+        "3_web_movil.jpg"
+      ],
+      "texto": "Diario #2 · El prototipo ya se puede probar\n\nHoy he dado un paso que me hacía mucha ilusión: ECOMA ya se puede probar gratis en el navegador, en el móvil y en el PC, sin instalar nada.\n\nOjo: es un prototipo en fase pre-alfa, el primer escalón de todos. Los gráficos son bloques provisionales y habrá errores, pero lo importante ya se juega: moverse con peso, no hacer ruido y escapar de los Ecos.\n\nLe he montado su propia página en ramsys.es/games/ecoma: entras, pulsas play y despiertas en la sala blindada. Debajo puedes dejarme tu opinión, y la leo toda.\n\n1 · La portada de la web\n2 · El juego, directamente en la página\n3 · Así se ve en el móvil\n\n— RAMSYS Game Studio\n\nEN: The ECOMA pre-alpha prototype is now free to try in your browser — link in bio.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-11T19:55:00+02:00",
+      "intentos": 0
+    },
+    {
+      "n": 3,
+      "titulo": "Diario #3 · Un menú para pausar (y para hacer trampas)",
+      "fecha_hora": "2026-10-12T16:15:00+02:00",
+      "carpeta": "2026-10-12_diario03",
+      "imagenes": [
+        "1_pausa.jpg",
+        "2_testeador.jpg",
+        "3_habilidades.jpg"
+      ],
+      "texto": "Diario #3 · Un menú para pausar (y para hacer trampas)\n\nProbando el prototipo en el móvil me di cuenta de algo: no había forma de volver al menú sin recargar la página. Así que el botón MENÚ de la consola ahora abre una pausa.\n\nDentro está el modo testeador: sin daño, parkour al máximo, vendas extra o saltar a cualquier parte, todo al momento. Es para que quien pruebe el prototipo vaya directo a lo nuevo.\n\n1 · El menú de pausa\n2 · El modo testeador\n3 · Las habilidades, a un toque\n\n— RAMSYS Game Studio\n\nEN: New pause menu with a tester mode to jump anywhere and try the new stuff.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-11T19:55:00+02:00",
+      "intentos": 0
+    },
+    {
+      "n": 4,
+      "titulo": "Diario #4 · Los Ecos ya te oyen",
+      "fecha_hora": "2026-10-12T19:30:00+02:00",
+      "carpeta": "2026-10-12_diario04",
+      "imagenes": [
+        "1_medidor.jpg",
+        "2_grito.jpg"
+      ],
+      "texto": "Diario #4 · Los Ecos ya te oyen\n\nEn ECOMA el ruido es la regla de oro, así que ahora se ve. Cada paso, cada caída o cada golpe dibuja un anillo que te dice hasta dónde llega.\n\nY los Ecos ya no reaccionan a lo loco: cada ruido les inquieta un poco más. Al primero se paran y escuchan. Al segundo gritan y van a mirar. Al tercero, corren a por ti. Si te quedas quieto, se calman solos.\n\n1 · Las ondas sobre la cabeza: lo inquieto que está\n2 · Un paso de más: el Eco grita (anillo rojo) y viene a mirar\n\n— RAMSYS Game Studio\n\nEN: In ECOMA noise is everything: now you can see it, and the Ecos get more restless with every sound.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-11T19:55:00+02:00",
+      "intentos": 0
     }
   ]
 }
