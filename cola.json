@@ -1,5 +1,5 @@
 {
-  "_info": "Cola de publicaciones APROBADAS de @ecoma.game. La lee la tarea programada 'ECOMA · publicar diario de Instagram'. Solo entran publicaciones aprobadas por Chris. Estados: APROBADA, PUBLICADA, ERROR. EN_PAUSA = no se publica.",
+  "_info": "Cola de publicaciones APROBADAS de @ecoma.game. La lee la tarea programada 'ECOMA · publicar diario de Instagram'. Solo entran publicaciones aprobadas por Chris. Estados: APROBADA, PUBLICADA, ERROR. EN_PAUSA y FUSIONADA no se publican. Desde el 12 oct 2026: 3 resúmenes al día (13:07, 18:07, 21:07).",
   "cuenta": {
     "composio_alias": "ecoma",
     "ig_user_id": "28506954562279595",
@@ -73,11 +73,11 @@
         "2_grito.jpg"
       ],
       "texto": "Diario #4 · Los Ecos ya te oyen\n\nEn ECOMA el ruido es la regla de oro, así que ahora se ve. Cada paso, cada caída o cada golpe dibuja un anillo que te dice hasta dónde llega.\n\nY los Ecos ya no reaccionan a lo loco: cada ruido les inquieta un poco más. Al primero se paran y escuchan. Al segundo gritan y van a mirar. Al tercero, corren a por ti. Si te quedas quieto, se calman solos.\n\n1 · Las ondas sobre la cabeza: lo inquieto que está\n2 · Un paso de más: el Eco grita (anillo rojo) y viene a mirar\n\n— RAMSYS Game Studio\n\nEN: In ECOMA noise is everything: now you can see it, and the Ecos get more restless with every sound.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-11T19:55:00+02:00",
       "intentos": 0,
       "version_juego": "Pre-alfa 0.1.2",
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 5,
@@ -91,10 +91,10 @@
       ],
       "texto": "Diario #5 · Un vigilante que solo ve lo que se mueve\n\nNuevo enemigo en el laboratorio de pruebas: un vigilante que repite su ronda con la linterna. No oye casi nada, pero si te mueves dentro de su haz, te ve. La regla es simple: cuando te llegue la luz, quieto.\n\nY una herramienta nueva: un despertador. Le das cuerda, suena al rato y los Ecos van a escucharlo. Mientras están entretenidos, tú pasas por arriba.\n\n1 · Quieto dentro del haz: no te ve\n2 · Te mueves: te ve y viene a por ti\n3 · El despertador aparta al Eco y llegas a la salida\n\nYa se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de sigilo).\n\n— RAMSYS Game Studio\n\nEN: A flashlight guard that only spots movement, and an alarm clock to lure the Ecos away.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.3",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-11T20:22:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 6,
@@ -108,10 +108,10 @@
       ],
       "texto": "Diario #6 · Dos Ecos nuevos: el Corredor y el Coro\n\nEl Corredor se quedó atrapado huyendo y no ha dejado de correr. Duerme hecho un ovillo: si pasas de puntillas, no se entera. Si le despiertas, corre tanto como tú, y si te quedas al borde de un saliente bajo, salta a por tus pies.\n\nEl Coro son personas que se cristalizaron juntas. Uno solo es asustadizo: te sigue, te mira y se aparta. Pero si hay dos cerca, sus cristales vibran a la vez… y atacan juntos.\n\n1 · El Corredor dormido: de puntillas, puedes pasar\n2 · Te quedas en el borde: salta a por tus pies\n3 · Dos Coros juntos: el aura avisa del peligro\n\nYa se pueden probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de Ecos).\n\n— RAMSYS Game Studio\n\nEN: Two new Ecos: a sleeping runner that leaps for your feet, and a skittish pair that attacks together.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.6",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-11T23:24:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 8,
@@ -124,10 +124,10 @@
       ],
       "texto": "Diario #8 · El Guardián\n\nAlgunos Ecos se cristalizaron defendiendo un sitio, y lo siguen defendiendo. El Guardián vigila su zona, marcada con cristal en el suelo, y no sale de ella. Ve delante y detrás, grita al verte y corre más que tú.\n\nPero no mira hacia arriba. Y si dos Guardianes se cruzan mientras te persiguen, se enganchan entre ellos y se quedan aturdidos.\n\n1 · Desde arriba no te ve\n2 · Dos Guardianes enganchados\n\nPrototipo pre-alfa 0.1.10, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de Ecos 2).\n\n— RAMSYS Game Studio\n\nEN: The Guardian never leaves its zone and sees all around… except above. Lure two together and they'll clash.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.10",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T07:45:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 9,
@@ -142,10 +142,10 @@
       ],
       "texto": "Diario #9 · Primera pistola y coberturas\n\nDaniel no es un soldado. Tiene una pistola con tres balas y cada disparo es el ruido más fuerte del juego: todo lo que lo oye viene hacia ti.\n\nRecargar es un momento de tensión. Si aciertas el punto justo, la recarga sale perfecta, a cámara lenta. Si fallas, se te cae el cargador al suelo o se encasquilla.\n\nY para no ser visto, coberturas: una mesa que te tapa de un lado, un hueco donde esconderte del todo… y cajas de madera que no aguantan muchos disparos.\n\n1 · Cubierto tras una mesa\n2 · Escondido en un hueco\n3 · Recarga perfecta\n4 · La caja no aguanta\n\nPrototipo pre-alfa 0.1.12, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate).\n\n— RAMSYS Game Studio\n\nEN: First pistol test: three bullets, loud shots, a risky active reload and cover that can break.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.12",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T07:45:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 10,
@@ -158,10 +158,10 @@
       ],
       "texto": "Diario #10 · ¿Qué tal lo has hecho?\n\nAl terminar «Despertar» ahora sale una pantalla de resultados: cuánto has tardado, cuántas veces te vieron, cuánto ruido hiciste… y un título según cómo hayas jugado. Fantasma si nadie supo que estabas allí. Elefante en una cacharrería si te oyeron hasta en el piso de arriba.\n\nY si mueres, ya no vuelves al principio: hay puntos de control. Reapareces en un momento, tal como estabas.\n\n1 · La pantalla de resultados\n2 · Un punto de control encendido\n\nPrototipo pre-alfa 0.1.14, ya se puede probar en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: A results screen with a title for your playstyle, and checkpoints so you don't start over.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.14",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T08:05:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 11,
@@ -174,10 +174,10 @@
       ],
       "texto": "Diario #11 · Curar en vez de disparar\n\nLos Ecos fueron personas. Así que he empezado a probar algo que me importa mucho: poder curarlos.\n\nEl atenuador de mano lanza unas ondas que van calmando al Eco hasta devolverlo a lo que era. Por la espalda o con el Eco aturdido va más rápido, y los Ecos más fuertes gastan más carga. El curado se queda sentado, perdido, sin saber dónde está.\n\n1 · Las ondas del atenuador\n2 · Un Eco curado\n\nPrototipo pre-alfa 0.1.15, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio del atenuador).\n\n— RAMSYS Game Studio\n\nEN: The Ecos were people once. New test: a hand-held attenuator that calms them until they're human again.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.15",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T08:05:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 12,
@@ -190,10 +190,10 @@
       ],
       "texto": "Diario #12 · «Eh, tú. Sígueme.»\n\nEn el laboratorio no está solo Daniel. Hay gente escondida, y ahora puedes llevártela contigo.\n\nFunciona en dos toques, como en los Oddworld de toda la vida: primero «Eh, tú» para que te atiendan, y después «Sígueme» o «Espera». Si vas de puntillas, se agachan contigo y no hacen ruido. Si vas de pie, sus pasos también se oyen… y los Ecos no distinguen de quién son.\n\n1 · «Eh, tú.» — «¿Sí?»\n2 · Juntos y de puntillas, junto a un Corredor dormido\n\nPrototipo pre-alfa 0.1.16, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de supervivientes).\n\n— RAMSYS Game Studio\n\nEN: Survivors can now follow you: \"Hey, you\" first, then \"Follow me\" or \"Wait\". Sneak, and they sneak too.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.16",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T08:05:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 13,
@@ -207,10 +207,10 @@
       ],
       "texto": "Diario #13 · «¡Quieto!»\n\nNo todo lo que patrulla el laboratorio son Ecos. Primer enemigo humano: una patrulla armada.\n\nSolo mira hacia delante y a su altura. Si te ve, grita «¡Quieto!» y se llena una barra: ese es tu momento para tirarte detrás de una cobertura. Si no llegas, un láser avisa… y dispara. Sus balas hieren, no matan de golpe, pero duelen.\n\nLa sombra es tu amiga: dentro no te ve. Y si haces ruido, se gira: «¿Quién anda ahí?».\n\n1 · «¡Quieto!»: la barra se llena\n2 · La ráfaga\n3 · Escondido en la sombra\n\nPrototipo pre-alfa 0.1.17, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate, sala del fondo).\n\n— RAMSYS Game Studio\n\nEN: First human enemy: an armed patrol. When it shouts \"Freeze!\", you have a moment to reach cover.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.17",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T08:40:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 14,
@@ -223,10 +223,10 @@
       ],
       "texto": "Diario #14 · «¡Al armero!»\n\nNo todos los guardias van armados. El Desarmado patrulla con las manos vacías, pero si te ve, grita y sale corriendo hacia el armero. Si llega, se arma… y ya no es tan simpático.\n\nTienes dos formas de evitarlo: adelantarte y cerrar el armero con candado, o plantarte en medio y cortarle el paso. Si encuentra el armero cerrado, el que sale corriendo es él.\n\n1 · El armero ya tiene candado\n2 · «¡Apártate!»\n\nPrototipo pre-alfa 0.1.18, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate, última sala).\n\n— RAMSYS Game Studio\n\nEN: The unarmed guard runs for the weapon locker. Lock it first, or stand in his way.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.18",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T08:40:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 15,
@@ -240,10 +240,10 @@
       ],
       "texto": "Diario #15 · Retos, torpeza y una partida que se guarda\n\nTres cosas pequeñas que cambian mucho cómo se juega.\n\nRetos: cada parte tiene tres opcionales. En «Despertar»: que no te vea nadie, examinar todo el laboratorio y salir en menos de cuatro minutos. Los ves en la pausa y se marcan al terminar.\n\nTorpeza: Daniel es un científico, no un soldado. Las primeras veces que recarga se palpa los bolsillos, se le resbala el cargador o tiene que tirar varias veces de la corredera. Con práctica, deja de pasarle.\n\nY por fin la partida se guarda sola, también en el navegador.\n\n1 · Los retos en la pantalla final\n2 · Los retos en la pausa\n3 · Montando la corredera… a la tercera\n\nPrototipo pre-alfa 0.1.21, ya se puede probar en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: Optional challenges, a clumsy rookie reload and autosave are now in the pre-alpha.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.21",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T08:40:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 16,
@@ -257,10 +257,10 @@
       ],
       "texto": "Diario #16 · Matar pesa\n\nEn ECOMA se puede matar, pero no sale gratis. Daniel es un científico: la primera vez le tiemblan las manos y no puede dejar de pensar en lo que ha hecho.\n\nPor dentro, el juego lleva la cuenta de su humanidad. Sin barras ni números en pantalla: lo notarás en cómo reacciona. Curar Ecos y salvar gente la recupera… despacio.\n\nY estrenamos logros: el primero, terminar «Despertar». Hay alguno para quien pase sin que le vea nadie, y otros para quien no se manche las manos.\n\n1 · «¿Qué he hecho?»\n2 · Tu primer logro\n3 · La lista de logros\n\nPrototipo pre-alfa 0.1.23, ya se puede probar en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: Killing has a cost now: Daniel's hands shake and his humanity drops. Plus, first achievements.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.23",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T08:45:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 17,
@@ -274,10 +274,10 @@
       ],
       "texto": "Diario #17 · Palancas, placas y un reloj que se oye\n\nHoy toca mecanismos. Cada palanca lleva un pequeño icono que te dice qué hace antes de tocarla, y una luz junto a la puerta te dice si está abierta o cerrada.\n\nAlgunas palancas abren una compuerta solo unos segundos. El reloj hace tic-tac… y los Ecos también lo oyen.\n\nY las placas de presión no distinguen quién las pisa: si un Eco se planta encima, la puerta se abre para ti.\n\n1 · La palanca y su luz\n2 · Corre antes de que se cierre\n3 · Un Eco me abre la puerta\n\nPrototipo pre-alfa 0.1.25, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de mecanismos).\n\n— RAMSYS Game Studio\n\nEN: Levers with icons, timed doors whose ticking the Ecos can hear, and pressure plates anyone can trigger.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.25",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T09:05:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
     },
     {
       "n": 18,
@@ -291,10 +291,78 @@
       ],
       "texto": "Diario #18 · «¡Todos! Hazlo tú.»\n\nLos supervivientes ya no solo te siguen. Ahora puedes pedirles cosas: que tiren de una palanca, que se queden quietos en una placa para mantener una puerta abierta, que sigan andando solos, que se escondan en la sombra… o que den una palmada para atraer a los Ecos lejos de ti.\n\nY si hay varios, mantienes pulsado y les hablas a todos a la vez.\n\nLos botones aparecen flotando junto al pulgar, solo cuando sirven para algo.\n\n1 · «¡Todos!»: tres supervivientes atentos\n2 · Uno se queda en la placa y la puerta sigue abierta\n3 · «¡Eh! ¡Aquí!»: el Eco se gira hacia él\n\nPrototipo pre-alfa 0.1.26, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de supervivientes 2).\n\n— RAMSYS Game Studio\n\nEN: Survivors can now pull levers, hold pressure plates, walk ahead, hide or distract the Ecos — and you can call them all at once.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "version_juego": "Pre-alfa 0.1.26",
-      "estado": "EN_PAUSA",
+      "estado": "FUSIONADA",
       "aprobada_en": "2026-10-12T09:40:00+02:00",
       "intentos": 0,
-      "nota": "12 oct 2026 10:00: en pausa; Chris pide 3 resúmenes al día. Se sustituye por un resumen."
+      "nota": "12 oct 2026: incluida en un resumen (Diario #4, #5 o #6 nuevos, entradas 20-22)."
+    },
+    {
+      "n": 20,
+      "titulo": "Diario #4 · Así son los Ecos",
+      "fecha_hora": "2026-10-12T13:07:00+02:00",
+      "carpeta": "2026-10-12_resumen04",
+      "version_juego": "Pre-alfa 0.1.10",
+      "texto": "Diario #4 · Así son los Ecos\n\nResumen de estos días en el laboratorio: los Ecos ya tienen carácter propio.\n\n• Te oyen. Cada ruido dibuja un anillo y les inquieta un poco más: al primero escuchan, al segundo gritan y al tercero corren a por ti.\n• El Vigilante solo ve lo que se mueve dentro de su linterna. Si te quedas quieto, no existes. Y un despertador los aparta para que pases.\n• El Corredor duerme hecho un ovillo. Si le despiertas, salta a por tus pies.\n• El Coro: uno solo es asustadizo; dos juntos atacan a la vez.\n• El Guardián no sale de su zona y ve delante y detrás… pero no hacia arriba. Si dos se cruzan, se enganchan entre ellos.\n\n1-2 · El ruido y el grito\n3-4 · El Vigilante y el despertador\n5-7 · El Corredor y el Coro\n8-9 · El Guardián\n\nPrototipo pre-alfa, gratis en el navegador: ramsys.es/games/ecoma (Testeadores → laboratorios).\n\n— RAMSYS Game Studio\n\nEN: Meet the Ecos: they hear every step, and each kind hunts you in its own way.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "imagenes": [
+        "01_medidor.jpg",
+        "02_grito.jpg",
+        "03_vigilante_quieto.jpg",
+        "04_despertador.jpg",
+        "05_corredor_dormido.jpg",
+        "06_corredor_salta.jpg",
+        "07_coro_pareja.jpg",
+        "08_guardian_no_ve_arriba.jpg",
+        "09_guardianes_enganchados.jpg"
+      ],
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-12T10:02:00+02:00",
+      "intentos": 0
+    },
+    {
+      "n": 21,
+      "titulo": "Diario #5 · Tres balas y consecuencias",
+      "fecha_hora": "2026-10-12T18:07:00+02:00",
+      "carpeta": "2026-10-12_resumen05",
+      "version_juego": "Pre-alfa 0.1.23",
+      "texto": "Diario #5 · Tres balas y consecuencias\n\nDaniel no es un soldado, y se nota.\n\n• Una pistola con tres balas. Cada disparo es el ruido más fuerte del juego. Si aciertas el punto justo al recargar, cámara lenta; de novato se le cae el cargador o tiene que tirar tres veces de la corredera.\n• Coberturas: una mesa, un hueco donde esconderse del todo y cajas de madera que no aguantan.\n• Primeros humanos: una patrulla que grita «¡Quieto!» antes de disparar (la sombra te esconde) y un guardia desarmado que corre al armero. Ciérralo con candado o córtale el paso.\n• O no disparar: el atenuador cura a los Ecos, porque fueron personas.\n• Matar pesa: a Daniel le tiemblan las manos y el juego lleva la cuenta de su humanidad.\n• Y además: resultados con un título según cómo juegas, retos, puntos de control, guardado y los primeros logros.\n\n1-3 · Pistola, recarga y torpeza\n4-6 · «¡Quieto!», la sombra y el armero\n7-8 · Curar o matar\n9-10 · Resultados y logros\n\nPrototipo pre-alfa, gratis en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: Three bullets, clumsy reloads, the first human guards — and killing has a cost.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "imagenes": [
+        "01_cobertura_baja.jpg",
+        "02_recarga_perfecta.jpg",
+        "03_corredera.jpg",
+        "04_quieto.jpg",
+        "05_sombra.jpg",
+        "06_cortar_paso.jpg",
+        "07_eco_curado.jpg",
+        "08_tras_matar.jpg",
+        "09_resultados.jpg",
+        "10_logros.jpg"
+      ],
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-12T10:02:00+02:00",
+      "intentos": 0
+    },
+    {
+      "n": 22,
+      "titulo": "Diario #6 · No estás solo",
+      "fecha_hora": "2026-10-12T21:07:00+02:00",
+      "carpeta": "2026-10-12_resumen06",
+      "version_juego": "Pre-alfa 0.1.27",
+      "texto": "Diario #6 · No estás solo\n\nEn el laboratorio queda gente escondida, y ahora puedes sacarla de allí.\n\n• «Eh, tú» y después «Sígueme» o «Espera». Si vas de puntillas, se agachan contigo.\n• Mecanismos: palancas con un icono que dice qué hacen, compuertas con reloj (los Ecos oyen el tic-tac) y placas que pisa cualquiera… incluso un Eco.\n• Más órdenes: «Hazlo» (tira de la palanca o se queda en la placa), «Sigue», «Escóndete», «Distráelo» y «¡Todos!» manteniendo pulsado.\n• Tienen miedo. Si ven un Eco, huyen, y si les pides que esperen: «¡Ni hablar!». Si atrapan a uno, tienes cinco segundos: curar al Eco, dispararle (de novato puedes darle a él) o hacer ruido.\n\n1-2 · «Eh, tú. Sígueme.»\n3-5 · Palancas, reloj y placas\n6-8 · «¡Todos! Hazlo tú.»\n9-10 · «¡AYUDA!» y «¡Ni hablar!»\n\nPrototipo pre-alfa 0.1.27, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de supervivientes 2).\n\n— RAMSYS Game Studio\n\nEN: Survivors can follow you, pull levers, hide or distract the Ecos — and they panic too.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "imagenes": [
+        "01_eh_tu.jpg",
+        "02_sigueme_sigilo.jpg",
+        "03_palanca.jpg",
+        "04_temporizador.jpg",
+        "05_eco_en_la_placa.jpg",
+        "06_todos.jpg",
+        "07_hazlo_placa.jpg",
+        "08_distraelo.jpg",
+        "09_agarrado.jpg",
+        "10_ni_hablar.jpg"
+      ],
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-12T10:02:00+02:00",
+      "intentos": 0
     }
   ]
 }
