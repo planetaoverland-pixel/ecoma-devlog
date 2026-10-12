@@ -226,6 +226,22 @@
    "estado": "APROBADA",
    "aprobada_en": "2026-10-12T08:40:00+02:00",
    "intentos": 0
+  },
+  {
+   "n": 16,
+   "titulo": "Diario #16 · Matar pesa",
+   "fecha_hora": "2026-10-14T13:07:00+02:00",
+   "carpeta": "2026-10-14_diario16",
+   "imagenes": [
+    "1_tras_matar.jpg",
+    "2_aviso_logro.jpg",
+    "3_logros.jpg"
+   ],
+   "texto": "Diario #16 · Matar pesa\n\nEn ECOMA se puede matar, pero no sale gratis. Daniel es un científico: la primera vez le tiemblan las manos y no puede dejar de pensar en lo que ha hecho.\n\nPor dentro, el juego lleva la cuenta de su humanidad. Sin barras ni números en pantalla: lo notarás en cómo reacciona. Curar Ecos y salvar gente la recupera… despacio.\n\nY estrenamos logros: el primero, terminar «Despertar». Hay alguno para quien pase sin que le vea nadie, y otros para quien no se manche las manos.\n\n1 · «¿Qué he hecho?»\n2 · Tu primer logro\n3 · La lista de logros\n\nPrototipo pre-alfa 0.1.23, ya se puede probar en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: Killing has a cost now: Daniel's hands shake and his humanity drops. Plus, first achievements.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.23",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T08:45:00+02:00",
+   "intentos": 0
   }
  ]
 }
