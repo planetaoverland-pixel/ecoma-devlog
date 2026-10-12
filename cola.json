@@ -134,6 +134,51 @@
    "estado": "APROBADA",
    "aprobada_en": "2026-10-12T07:45:00+02:00",
    "intentos": 0
+  },
+  {
+   "n": 10,
+   "titulo": "Diario #10 · ¿Qué tal lo has hecho?",
+   "fecha_hora": "2026-10-13T11:07:00+02:00",
+   "carpeta": "2026-10-13_diario10",
+   "imagenes": [
+    "1_resultados.jpg",
+    "2_punto_control.jpg"
+   ],
+   "texto": "Diario #10 · ¿Qué tal lo has hecho?\n\nAl terminar «Despertar» ahora sale una pantalla de resultados: cuánto has tardado, cuántas veces te vieron, cuánto ruido hiciste… y un título según cómo hayas jugado. Fantasma si nadie supo que estabas allí. Elefante en una cacharrería si te oyeron hasta en el piso de arriba.\n\nY si mueres, ya no vuelves al principio: hay puntos de control. Reapareces en un momento, tal como estabas.\n\n1 · La pantalla de resultados\n2 · Un punto de control encendido\n\nPrototipo pre-alfa 0.1.14, ya se puede probar en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: A results screen with a title for your playstyle, and checkpoints so you don't start over.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.14",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T08:05:00+02:00",
+   "intentos": 0
+  },
+  {
+   "n": 11,
+   "titulo": "Diario #11 · Curar en vez de disparar",
+   "fecha_hora": "2026-10-13T13:07:00+02:00",
+   "carpeta": "2026-10-13_diario11",
+   "imagenes": [
+    "1_ondas.jpg",
+    "2_eco_curado.jpg"
+   ],
+   "texto": "Diario #11 · Curar en vez de disparar\n\nLos Ecos fueron personas. Así que he empezado a probar algo que me importa mucho: poder curarlos.\n\nEl atenuador de mano lanza unas ondas que van calmando al Eco hasta devolverlo a lo que era. Por la espalda o con el Eco aturdido va más rápido, y los Ecos más fuertes gastan más carga. El curado se queda sentado, perdido, sin saber dónde está.\n\n1 · Las ondas del atenuador\n2 · Un Eco curado\n\nPrototipo pre-alfa 0.1.15, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio del atenuador).\n\n— RAMSYS Game Studio\n\nEN: The Ecos were people once. New test: a hand-held attenuator that calms them until they're human again.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.15",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T08:05:00+02:00",
+   "intentos": 0
+  },
+  {
+   "n": 12,
+   "titulo": "Diario #12 · «Eh, tú. Sígueme.»",
+   "fecha_hora": "2026-10-13T15:07:00+02:00",
+   "carpeta": "2026-10-13_diario12",
+   "imagenes": [
+    "1_eh_tu.jpg",
+    "2_sigueme_sigilo.jpg"
+   ],
+   "texto": "Diario #12 · «Eh, tú. Sígueme.»\n\nEn el laboratorio no está solo Daniel. Hay gente escondida, y ahora puedes llevártela contigo.\n\nFunciona en dos toques, como en los Oddworld de toda la vida: primero «Eh, tú» para que te atiendan, y después «Sígueme» o «Espera». Si vas de puntillas, se agachan contigo y no hacen ruido. Si vas de pie, sus pasos también se oyen… y los Ecos no distinguen de quién son.\n\n1 · «Eh, tú.» — «¿Sí?»\n2 · Juntos y de puntillas, junto a un Corredor dormido\n\nPrototipo pre-alfa 0.1.16, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de supervivientes).\n\n— RAMSYS Game Studio\n\nEN: Survivors can now follow you: \"Hey, you\" first, then \"Follow me\" or \"Wait\". Sneak, and they sneak too.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.16",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T08:05:00+02:00",
+   "intentos": 0
   }
  ]
 }
