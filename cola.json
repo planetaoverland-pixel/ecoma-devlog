@@ -340,9 +340,11 @@
         "09_resultados.jpg",
         "10_logros.jpg"
       ],
-      "estado": "APROBADA",
+      "estado": "PUBLICADA",
       "aprobada_en": "2026-10-12T10:02:00+02:00",
-      "intentos": 0
+      "intentos": 0,
+      "publicado_en": "2026-10-12T18:10:08+02:00",
+      "enlace": "https://www.instagram.com/p/DeZoVsqGw8O/"
     },
     {
       "n": 22,
