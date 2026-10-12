@@ -260,6 +260,22 @@
    "estado": "APROBADA",
    "aprobada_en": "2026-10-12T09:05:00+02:00",
    "intentos": 0
+  },
+  {
+   "n": 18,
+   "titulo": "Diario #18 · «¡Todos! Hazlo tú.»",
+   "fecha_hora": "2026-10-14T17:07:00+02:00",
+   "carpeta": "2026-10-15_diario18",
+   "imagenes": [
+    "1_todos.jpg",
+    "2_hazlo_placa.jpg",
+    "3_distraelo.jpg"
+   ],
+   "texto": "Diario #18 · «¡Todos! Hazlo tú.»\n\nLos supervivientes ya no solo te siguen. Ahora puedes pedirles cosas: que tiren de una palanca, que se queden quietos en una placa para mantener una puerta abierta, que sigan andando solos, que se escondan en la sombra… o que den una palmada para atraer a los Ecos lejos de ti.\n\nY si hay varios, mantienes pulsado y les hablas a todos a la vez.\n\nLos botones aparecen flotando junto al pulgar, solo cuando sirven para algo.\n\n1 · «¡Todos!»: tres supervivientes atentos\n2 · Uno se queda en la placa y la puerta sigue abierta\n3 · «¡Eh! ¡Aquí!»: el Eco se gira hacia él\n\nPrototipo pre-alfa 0.1.26, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de supervivientes 2).\n\n— RAMSYS Game Studio\n\nEN: Survivors can now pull levers, hold pressure plates, walk ahead, hide or distract the Ecos — and you can call them all at once.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.26",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T09:40:00+02:00",
+   "intentos": 0
   }
  ]
 }
