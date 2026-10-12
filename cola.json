@@ -179,6 +179,53 @@
    "estado": "APROBADA",
    "aprobada_en": "2026-10-12T08:05:00+02:00",
    "intentos": 0
+  },
+  {
+   "n": 13,
+   "titulo": "Diario #13 · «¡Quieto!»",
+   "fecha_hora": "2026-10-13T17:07:00+02:00",
+   "carpeta": "2026-10-13_diario13",
+   "imagenes": [
+    "1_quieto.jpg",
+    "2_rafaga.jpg",
+    "3_sombra.jpg"
+   ],
+   "texto": "Diario #13 · «¡Quieto!»\n\nNo todo lo que patrulla el laboratorio son Ecos. Primer enemigo humano: una patrulla armada.\n\nSolo mira hacia delante y a su altura. Si te ve, grita «¡Quieto!» y se llena una barra: ese es tu momento para tirarte detrás de una cobertura. Si no llegas, un láser avisa… y dispara. Sus balas hieren, no matan de golpe, pero duelen.\n\nLa sombra es tu amiga: dentro no te ve. Y si haces ruido, se gira: «¿Quién anda ahí?».\n\n1 · «¡Quieto!»: la barra se llena\n2 · La ráfaga\n3 · Escondido en la sombra\n\nPrototipo pre-alfa 0.1.17, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate, sala del fondo).\n\n— RAMSYS Game Studio\n\nEN: First human enemy: an armed patrol. When it shouts \"Freeze!\", you have a moment to reach cover.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.17",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T08:40:00+02:00",
+   "intentos": 0
+  },
+  {
+   "n": 14,
+   "titulo": "Diario #14 · «¡Al armero!»",
+   "fecha_hora": "2026-10-14T09:07:00+02:00",
+   "carpeta": "2026-10-13_diario14",
+   "imagenes": [
+    "1_armero_cerrado.jpg",
+    "2_cortar_paso.jpg"
+   ],
+   "texto": "Diario #14 · «¡Al armero!»\n\nNo todos los guardias van armados. El Desarmado patrulla con las manos vacías, pero si te ve, grita y sale corriendo hacia el armero. Si llega, se arma… y ya no es tan simpático.\n\nTienes dos formas de evitarlo: adelantarte y cerrar el armero con candado, o plantarte en medio y cortarle el paso. Si encuentra el armero cerrado, el que sale corriendo es él.\n\n1 · El armero ya tiene candado\n2 · «¡Apártate!»\n\nPrototipo pre-alfa 0.1.18, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate, última sala).\n\n— RAMSYS Game Studio\n\nEN: The unarmed guard runs for the weapon locker. Lock it first, or stand in his way.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.18",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T08:40:00+02:00",
+   "intentos": 0
+  },
+  {
+   "n": 15,
+   "titulo": "Diario #15 · Retos, torpeza y una partida que se guarda",
+   "fecha_hora": "2026-10-14T11:07:00+02:00",
+   "carpeta": "2026-10-14_diario15",
+   "imagenes": [
+    "1_resultados_retos.jpg",
+    "2_pausa_retos.jpg",
+    "3_corredera.jpg"
+   ],
+   "texto": "Diario #15 · Retos, torpeza y una partida que se guarda\n\nTres cosas pequeñas que cambian mucho cómo se juega.\n\nRetos: cada parte tiene tres opcionales. En «Despertar»: que no te vea nadie, examinar todo el laboratorio y salir en menos de cuatro minutos. Los ves en la pausa y se marcan al terminar.\n\nTorpeza: Daniel es un científico, no un soldado. Las primeras veces que recarga se palpa los bolsillos, se le resbala el cargador o tiene que tirar varias veces de la corredera. Con práctica, deja de pasarle.\n\nY por fin la partida se guarda sola, también en el navegador.\n\n1 · Los retos en la pantalla final\n2 · Los retos en la pausa\n3 · Montando la corredera… a la tercera\n\nPrototipo pre-alfa 0.1.21, ya se puede probar en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: Optional challenges, a clumsy rookie reload and autosave are now in the pre-alpha.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.21",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T08:40:00+02:00",
+   "intentos": 0
   }
  ]
 }
