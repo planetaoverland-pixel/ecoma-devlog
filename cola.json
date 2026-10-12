@@ -242,6 +242,22 @@
    "estado": "APROBADA",
    "aprobada_en": "2026-10-12T08:45:00+02:00",
    "intentos": 0
+  },
+  {
+   "n": 17,
+   "titulo": "Diario #17 · Palancas, placas y un reloj que se oye",
+   "fecha_hora": "2026-10-14T15:07:00+02:00",
+   "carpeta": "2026-10-14_diario17",
+   "imagenes": [
+    "1_palanca.jpg",
+    "2_temporizador.jpg",
+    "3_eco_en_la_placa.jpg"
+   ],
+   "texto": "Diario #17 · Palancas, placas y un reloj que se oye\n\nHoy toca mecanismos. Cada palanca lleva un pequeño icono que te dice qué hace antes de tocarla, y una luz junto a la puerta te dice si está abierta o cerrada.\n\nAlgunas palancas abren una compuerta solo unos segundos. El reloj hace tic-tac… y los Ecos también lo oyen.\n\nY las placas de presión no distinguen quién las pisa: si un Eco se planta encima, la puerta se abre para ti.\n\n1 · La palanca y su luz\n2 · Corre antes de que se cierre\n3 · Un Eco me abre la puerta\n\nPrototipo pre-alfa 0.1.25, ya se puede probar en ramsys.es/games/ecoma (Testeadores → Laboratorio de mecanismos).\n\n— RAMSYS Game Studio\n\nEN: Levers with icons, timed doors whose ticking the Ecos can hear, and pressure plates anyone can trigger.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "version_juego": "Pre-alfa 0.1.25",
+   "estado": "APROBADA",
+   "aprobada_en": "2026-10-12T09:05:00+02:00",
+   "intentos": 0
   }
  ]
 }
