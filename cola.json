@@ -365,9 +365,12 @@
         "09_agarrado.jpg",
         "10_ni_hablar.jpg"
       ],
-      "estado": "APROBADA",
+      "estado": "PUBLICADA",
       "aprobada_en": "2026-10-12T10:02:00+02:00",
-      "intentos": 0
+      "intentos": 0,
+      "publicado_en": "2026-10-12T21:10:25+02:00",
+      "enlace": "https://www.instagram.com/p/DeZ8-JDGXIZ/",
+      "media_id": "18118965829942492"
     },
     {
       "n": 23,
