@@ -391,9 +391,12 @@
     "09_camara_1_5.jpg",
     "10_camara_tiroteo.jpg"
    ],
-   "estado": "APROBADA",
+   "estado": "PUBLICADA",
    "aprobada_en": "2026-10-12T12:47:00+02:00",
-   "intentos": 0
+   "intentos": 0,
+   "publicado_en": "2026-10-13T13:09:50+02:00",
+   "enlace": "https://www.instagram.com/p/DebqxKnG7Dw/",
+   "media_id": "18111859877583570"
   },
   {
    "n": 24,
