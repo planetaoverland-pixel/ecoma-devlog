@@ -496,11 +496,10 @@
         "05_ascensor.jpg",
         "06_dos_guerras.jpg"
       ],
-      "texto": "Diario #12 · Francotirador, silenciadores y dos guerras\n\nHoy tocaba mirar lejos… y hacer el menor ruido posible.\n\n• Fusil de cerrojo: una lupa ×2 que se mueve con la respiración, cerrojo a mano tras cada tiro y el triple de daño en la cabeza. Si hay una caja entre el cañón y la cruz, la mira se oscurece: «sin ángulo de tiro».\n• Silenciadores que se gastan: una botella (1 disparo), una lata (2), un filtro de aceite (3) o uno militar (6). Chris los enrosca a mano, jugando.\n• Tumbarse y reptar, como en Metal Gear: cabes por huecos bajos y, con el fusil, despliegas el bípode.\n• Tres puzles nuevos: un ascensor que tarda 25 segundos mientras alguien gira la manivela, y dos bandos (Ecos abajo, guardias en la pasarela) que se pelean entre ellos si sabes cómo juntarlos.\n\n1 · La mira\n2 · Sin ángulo de tiro\n3 · Enroscando un silenciador\n4 · Tumbado\n5 · El ascensor lento\n6 · Dos pisos, dos guerras\n\nPrototipo pre-alfa 0.1.81, gratis en ramsys.es/games/ecoma (Testeadores → Galería del francotirador y Laboratorio de puzles 2).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: A bolt-action sniper rifle, makeshift silencers, crawling, and two enemy factions you can turn against each other.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "texto": "Diario #12 · Francotirador, silenciadores y dos guerras\n\nHoy tocaba mirar lejos… y hacer el menor ruido posible.\n\n• Fusil de cerrojo: una lupa ×2 que se mueve con la respiración, cerrojo a mano tras cada tiro y el triple de daño en la cabeza. Si hay una caja entre el cañón y la cruz, la mira se oscurece: «sin ángulo de tiro».\n• Silenciadores que se gastan: una botella (1 disparo), una lata (2), un filtro de aceite (3) o uno militar (6). Chris los enrosca a mano, jugando.\n• Tumbarse y reptar, como en Metal Gear: cabes por huecos bajos y, con el fusil, despliegas el bípode.\n• Tres puzles nuevos: Rosa pisa la placa que abre la compuerta mientras llegan Ecos, un ascensor que tarda 25 segundos mientras alguien gira la manivela, y dos bandos (Ecos abajo, guardias en la pasarela) que se pelean entre ellos si sabes cómo juntarlos.\n\n1 · La mira\n2 · Sin ángulo de tiro\n3 · Enroscando un silenciador\n4 · Tumbado\n5 · El ascensor lento\n6 · Dos pisos, dos guerras\n\nPrototipo pre-alfa 0.1.81, gratis en ramsys.es/games/ecoma (Testeadores → Galería del francotirador y Laboratorio de puzles 2).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: A bolt-action sniper rifle, makeshift silencers, crawling, and two enemy factions you can turn against each other.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "PENDIENTE",
       "intentos": 0,
-      "ia": true,
-      "aprobada_en": "2026-10-13T15:10:00+02:00"
+      "ia": true
     },
     {
       "n": 29,
@@ -515,9 +514,10 @@
         "04_perro_guia.jpg"
       ],
       "texto": "Diario #13 · Ocho puzles y un perro con correa\n\nHoy he cerrado el segundo laboratorio de puzles: ocho salas en las que disparar es solo una de las herramientas.\n\n• Tres oficios, una puerta: la salida tiene tres cierres y cada superviviente sabe abrir uno. Óscar tiene pánico, Elena está escondida junto a un Eco dormido y Jaime, detrás de una pared eléctrica. Al abrir el último, salta la alarma.\n• El tiro que suena lejos: dispara a una lámpara y los Ecos irán a ver qué ha pasado. Pero tu disparo también se oye.\n• Embestidor contra la barricada: las balas no la rompen. Él sí, si consigues que cargue contra ti y te apartas a tiempo.\n• El perro y el guía: un guardia pasea con un perro infectado que te huele de cerca. Toca esconderse, que alguien haga ruido y salir a su espalda en silencio.\n• Los Ecos corredores ya saltan las coberturas bajas. Los demás, no.\n\n1 · Tres oficios, una puerta\n2 · El tiro que suena lejos\n3 · La barricada\n4 · A espaldas del guía\n\nPrototipo pre-alfa 0.1.85, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de puzles 2).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Eight new puzzles, a guard with an infected dog on a leash, and runners that vault over cover.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
-      "ia": true
+      "ia": true,
+      "aprobada_en": "2026-10-13T16:39:00+02:00"
     }
   ]
 }
