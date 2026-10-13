@@ -443,10 +443,13 @@
         "09_embestidor_1_aviso.jpg",
         "10_embestidor_3_choque.jpg"
       ],
-      "estado": "APROBADA",
+      "estado": "PUBLICADA",
       "aprobada_en": "2026-10-13T13:55:00+02:00",
       "intentos": 0,
-      "nota": "13 oct 2026: texto corregido (Chris) y vuelto a aprobar por Chris con la tarjeta de botones."
+      "nota": "13 oct 2026: texto corregido (Chris) y vuelto a aprobar por Chris con la tarjeta de botones.",
+      "publicado_en": "2026-10-13T21:09:44+02:00",
+      "enlace": "https://www.instagram.com/p/Dechr-0merX/",
+      "media_id": "18106015625358774"
     },
     {
       "n": 26,
