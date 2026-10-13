@@ -501,6 +501,23 @@
       "intentos": 0,
       "ia": true,
       "aprobada_en": "2026-10-13T15:10:00+02:00"
+    },
+    {
+      "n": 29,
+      "titulo": "Diario #13 · Ocho puzles y un perro con correa",
+      "fecha_hora": "2026-10-15T13:07:00+02:00",
+      "carpeta": "2026-10-15_resumen13",
+      "version_juego": "Pre-alfa 0.1.85",
+      "imagenes": [
+        "01_tres_oficios.jpg",
+        "02_lampara.jpg",
+        "03_barricada.jpg",
+        "04_perro_guia.jpg"
+      ],
+      "texto": "Diario #13 · Ocho puzles y un perro con correa\n\nHoy he cerrado el segundo laboratorio de puzles: ocho salas en las que disparar es solo una de las herramientas.\n\n• Tres oficios, una puerta: la salida tiene tres cierres y cada superviviente sabe abrir uno. Óscar tiene pánico, Elena está escondida junto a un Eco dormido y Jaime, detrás de una pared eléctrica. Al abrir el último, salta la alarma.\n• El tiro que suena lejos: dispara a una lámpara y los Ecos irán a ver qué ha pasado. Pero tu disparo también se oye.\n• Embestidor contra la barricada: las balas no la rompen. Él sí, si consigues que cargue contra ti y te apartas a tiempo.\n• El perro y el guía: un guardia pasea con un perro infectado que te huele de cerca. Toca esconderse, que alguien haga ruido y salir a su espalda en silencio.\n• Los Ecos corredores ya saltan las coberturas bajas. Los demás, no.\n\n1 · Tres oficios, una puerta\n2 · El tiro que suena lejos\n3 · La barricada\n4 · A espaldas del guía\n\nPrototipo pre-alfa 0.1.85, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de puzles 2).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Eight new puzzles, a guard with an infected dog on a leash, and runners that vault over cover.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "ia": true
     }
   ]
 }
