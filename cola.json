@@ -394,6 +394,51 @@
       "estado": "APROBADA",
       "aprobada_en": "2026-10-12T12:47:00+02:00",
       "intentos": 0
+    },
+    {
+      "n": 24,
+      "titulo": "Diario #8 · Vida, mando y aguante",
+      "fecha_hora": "2026-10-13T18:07:00+02:00",
+      "carpeta": "2026-10-13_resumen08",
+      "version_juego": "Pre-alfa 0.1.40",
+      "texto": "Diario #8 · Vida, mando y aguante\n\nLos tiroteos ya tienen peso, y el juego se deja llevar con un mando.\n\n• Los enemigos tienen vida: a un Eco común le hacen falta varios tiros, y cuando cae al suelo todavía puedes decidir qué hacer con él.\n• Si no le ves, no te ve: un guardia fuera de la pantalla no puede dispararte. Y la cámara se acerca cuando hay peligro.\n• Mando de Xbox o PlayStation, con sus símbolos. Las órdenes funcionan como en Oddworld: mantén LB y habla con uno («Eh, tú», «Sígueme», «Espera»…); mantén RB y habla con todos.\n• Monitores de seguridad para mirar lo que hay más adelante, y ratas que corren a su agujero en cuanto haces ruido.\n• Correr cansa: una barrita de aguante, y si la vacías, Daniel jadea y se le oye.\n• OPCIONES: puedes bajar las ondas de sonido o quitarlas, y apagar la vibración del mando.\n\n1-3 · Vida, derribo y la cámara del tiroteo\n4-5 · Las órdenes con mando\n6-7 · Cámaras de seguridad y ratas\n8 · Sin aliento\n9 · Opciones\n\nPrototipo pre-alfa, gratis en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: Enemies with health, a closer combat camera, Oddworld-style controller commands and a stamina bar.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "imagenes": [
+        "01_vida_eco_3_tiros.jpg",
+        "02_vida_eco_derribado.jpg",
+        "03_combate_camara_nueva.jpg",
+        "04_mando_ordenes_lb.jpg",
+        "05_mando_ordenes_rb.jpg",
+        "06_lote4_monitor_cam.jpg",
+        "07_lote4_ratas_huyen.jpg",
+        "08_correr_agotado.jpg",
+        "09_opciones_menu.jpg"
+      ],
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-13T06:50:00+02:00",
+      "intentos": 0
+    },
+    {
+      "n": 25,
+      "titulo": "Diario #9 · Daniel ya tiene cara (y nuevos Ecos)",
+      "fecha_hora": "2026-10-13T21:07:00+02:00",
+      "carpeta": "2026-10-13_resumen09",
+      "version_juego": "Pre-alfa 0.1.55",
+      "texto": "Diario #9 · Daniel ya tiene cara (y nuevos Ecos)\n\nPrimera noche con arte de verdad en el laboratorio… y dos Ecos que no se dejan.\n\n• Daniel dibujado y animado: andar, correr, saltar, trepar, apuntar, vendarse. El primer fondo del laboratorio ya está en «Despertar».\n• La MOCHILA: tijeras, trapo y cristal se convierten en pinchos para el cuerpo a cuerpo; trapo y alcohol, en una venda desinfectada que cura el doble.\n• Escopeta: de cerca derriba, de lejos casi nada, y se recarga cartucho a cartucho. Las balas ya se ven viajar, y si te agachas te pasan por encima.\n• La Coraza: un Eco con armadura de cristal por delante. Las balas rebotan; hay que rodearlo o tirarle algo encima.\n• El Embestidor: avisa con una franja roja en el suelo y carga en línea recta. Si se estampa contra una pared, es tu momento.\n\n1-2 · Daniel y el laboratorio\n3-5 · Pinchos, mochila y venda\n6 · Escopeta\n7-8 · La Coraza\n9-10 · El Embestidor\n\nPrototipo pre-alfa 0.1.55, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de Ecos 3).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Daniel finally has a face, a crafting backpack, a shotgun — and two new Ecos: one armoured, one that charges.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "imagenes": [
+        "01_arte_despertar_lab.jpg",
+        "02_pre_alfa_0143_animaciones_96.jpg",
+        "03_pre_alfa_0142_pinchazo_eco.jpg",
+        "04_venda_2_mochila.jpg",
+        "05_venda_5_alcohol_despertar.jpg",
+        "06_orden28_movil_escopeta.jpg",
+        "07_coraza_1_rebote_frente.jpg",
+        "08_coraza_3_placaje.jpg",
+        "09_embestidor_1_aviso.jpg",
+        "10_embestidor_3_choque.jpg"
+      ],
+      "estado": "APROBADA",
+      "aprobada_en": "2026-10-13T06:50:00+02:00",
+      "intentos": 0
     }
   ]
 }
