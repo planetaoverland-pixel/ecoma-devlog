@@ -477,9 +477,10 @@
         "04_oleadas.jpg"
       ],
       "texto": "Diario #11 · Puzles, pistas y oleadas\n\nEsta semana el laboratorio se ha llenado de puzles… y de Ecos que llegan en tandas.\n\n• Siete puzles nuevos con supervivientes: alguien se queda en la placa por ti, un Eco te abre la puerta sin saberlo, una superviviente entra en pánico y hay que calmarla antes de que se acabe la cuenta atrás.\n• Pistas sin destripes: tres por puzle, de la más suave a la solución. Y antes de la última, el juego te pregunta si de verdad quieres apagar el cerebro justo ahora.\n• Apuntar libre: Chris se para y apunta en cualquier dirección, también hacia arriba.\n• Tiroteos por oleadas: se cierra la puerta, llegan tres tandas de Ecos y guardias, cae munición entre una y otra y avanzas a la siguiente cobertura.\n• Munición de verdad: «14+1», y al recargar con bala dentro el cargador a medias cae al suelo.\n\n1 · Alguien pisa la placa por ti\n2 · Pánico y cuenta atrás\n3 · ¿Seguro que quieres la solución?\n4 · Oleadas\n\nPrototipo pre-alfa 0.1.75, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de puzles y Laboratorio de tiroteo).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Seven survivor puzzles, a spoiler-free hint system, free aiming and wave-based shootouts.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
-      "ia": true
+      "ia": true,
+      "aprobada_en": "2026-10-13T15:10:00+02:00"
     },
     {
       "n": 28,
@@ -496,9 +497,10 @@
         "06_dos_guerras.jpg"
       ],
       "texto": "Diario #12 · Francotirador, silenciadores y dos guerras\n\nHoy tocaba mirar lejos… y hacer el menor ruido posible.\n\n• Fusil de cerrojo: una lupa ×2 que se mueve con la respiración, cerrojo a mano tras cada tiro y el triple de daño en la cabeza. Si hay una caja entre el cañón y la cruz, la mira se oscurece: «sin ángulo de tiro».\n• Silenciadores que se gastan: una botella (1 disparo), una lata (2), un filtro de aceite (3) o uno militar (6). Chris los enrosca a mano, jugando.\n• Tumbarse y reptar, como en Metal Gear: cabes por huecos bajos y, con el fusil, despliegas el bípode.\n• Tres puzles nuevos: un ascensor que tarda 25 segundos mientras alguien gira la manivela, y dos bandos (Ecos abajo, guardias en la pasarela) que se pelean entre ellos si sabes cómo juntarlos.\n\n1 · La mira\n2 · Sin ángulo de tiro\n3 · Enroscando un silenciador\n4 · Tumbado\n5 · El ascensor lento\n6 · Dos pisos, dos guerras\n\nPrototipo pre-alfa 0.1.81, gratis en ramsys.es/games/ecoma (Testeadores → Galería del francotirador y Laboratorio de puzles 2).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: A bolt-action sniper rifle, makeshift silencers, crawling, and two enemy factions you can turn against each other.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
-      "ia": true
+      "ia": true,
+      "aprobada_en": "2026-10-13T15:10:00+02:00"
     }
   ]
 }
