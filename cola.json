@@ -540,6 +540,22 @@
       "intentos": 0,
       "ia": true,
       "aprobada_en": "2026-10-13T17:18:00+02:00"
+    },
+    {
+      "n": 31,
+      "titulo": "Diario #15 · Bala a bala",
+      "fecha_hora": "2026-10-15T21:07:00+02:00",
+      "carpeta": "2026-10-15_resumen15",
+      "version_juego": "Pre-alfa 0.1.91",
+      "imagenes": [
+        "01_la_mesa.jpg",
+        "02_bala_a_bala.jpg",
+        "03_no_entra.jpg"
+      ],
+      "texto": "Diario #15 · Bala a bala\n\nHoy he querido que recargar se sienta como en la vida real: las balas no aparecen solas dentro del cargador.\n\n• Mesa de munición: los cargadores sobre la mesa y las balas sueltas al lado. Mantienes pulsado un cargador y entran una a una, cada vez más despacio, porque el muelle se endurece.\n• Cada arma con su calibre real: 9 mm, .308, cartuchos del 12… La bala que no es de ese cargador no entra.\n• En una mesa del laboratorio el tiempo no se para: cada bala hace clic y, si te atacan, sueltas los cargadores.\n• Bolsillo de cargadores: lo coses con dos trapos en la mochila y, al recargar a medias, guardas el cargador en vez de tirarlo.\n\n1 · La mesa\n2 · Bala a bala\n3 · Esa no entra\n\nPrototipo pre-alfa 0.1.91, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Real calibres and an ammo table: load your magazines round by round — the spring gets harder at the end.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "ia": true
     }
   ]
 }
