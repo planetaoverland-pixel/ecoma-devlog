@@ -453,9 +453,10 @@
     "04_sin_aliento.jpg"
    ],
    "texto": "Diario #10 · Disparar cuesta\n\nEsta semana me he propuesto que cada tiro se note… y que tenga un precio.\n\n• Un perro infectado: oye mucho, corre más que tú andando y, si va atado a un guardia, ladra hasta que lo suelta. Eso sí, no trepa.\n• El disparo se siente: la bala acelera, saltan chispas en la pared y los casquillos rebotan en el suelo… y los Ecos los oyen.\n• La escopeta bombea: el cartucho sale al tirar de la corredera, no al disparar. Y si cambias de arma a mitad de recarga, la recarga te espera.\n• Daniel es científico, no soldado: disparar le quita el aliento. De novato, cinco balas seguidas lo dejan jadeando; con práctica, cada vez menos.\n• Mando nuevo, como en los juegos de disparos: Y para cambiar de arma.\n\n1 · El perro ladra\n2 · Chispas en la pared\n3 · Bombeo y cartucho\n4 · ¡Sin aliento!\n\nPrototipo pre-alfa 0.1.66, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: An infected dog, shots you can feel, a pump-action shotgun — and shooting now leaves Daniel out of breath.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-   "estado": "PENDIENTE",
+   "estado": "APROBADA",
    "intentos": 0,
-   "ia": true
+   "ia": true,
+   "aprobada_en": "2026-10-13T08:27:00+02:00"
   }
  ]
 }
