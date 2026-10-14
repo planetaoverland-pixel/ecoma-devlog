@@ -1,19 +1,21 @@
 {
-  "_info": "Cola de publicaciones APROBADAS de @ecoma.game. La lee la tarea programada 'ECOMA · publicar diario de Instagram'. Solo entran publicaciones aprobadas por Chris. Estados: APROBADA, PUBLICADA, ERROR. EN_PAUSA y FUSIONADA no se publican. Desde el 12 oct 2026: 3 resúmenes al día (13:07, 18:07, 21:07).",
+  "_info": "Cola de publicaciones APROBADAS de @ecoma.game. La lee la tarea programada 'ECOMA · publicar diario de Instagram'. Solo entran publicaciones aprobadas por Chris. Estados: APROBADA, PUBLICADA, ERROR. EN_PAUSA y FUSIONADA no se publican. Desde el 14 oct 2026 (Chris, 12:01): hasta 5 resúmenes al día (11:07, 13:07, 16:07, 18:07, 21:07), separados al menos 2 h. Antes, 3 al día.",
   "cuenta": {
     "composio_alias": "ecoma",
     "ig_user_id": "28506954562279595",
     "usuario": "ecoma.game"
   },
   "reglas": {
-    "max_por_dia": 3,
+    "max_por_dia": 5,
     "separacion_min_horas": 2,
     "zona": "Europe/Madrid",
     "max_intentos": 2,
     "horario": "09:00-23:30",
     "version_web": "La versión del juego publicada está en el README.md del repositorio planetaoverland-pixel/ecoma-beta (línea 'Versión actual: ...'). Una publicación con 'version_juego' solo sale si la web ya tiene esa versión o una posterior.",
     "horas": [
+      "11:07",
       "13:07",
+      "16:07",
       "18:07",
       "21:07"
     ]
@@ -473,7 +475,7 @@
     {
       "n": 27,
       "titulo": "Diario #11 · Puzles, pistas y oleadas",
-      "fecha_hora": "2026-10-14T18:07:00+02:00",
+      "fecha_hora": "2026-10-14T16:07:00+02:00",
       "carpeta": "2026-10-14_resumen11",
       "version_juego": "Pre-alfa 0.1.75",
       "imagenes": [
@@ -491,7 +493,7 @@
     {
       "n": 28,
       "titulo": "Diario #12 · Francotirador, silenciadores y dos guerras",
-      "fecha_hora": "2026-10-14T21:07:00+02:00",
+      "fecha_hora": "2026-10-14T18:07:00+02:00",
       "carpeta": "2026-10-14_resumen12",
       "version_juego": "Pre-alfa 0.1.81",
       "imagenes": [
@@ -511,7 +513,7 @@
     {
       "n": 29,
       "titulo": "Diario #13 · Ocho puzles y un perro con correa",
-      "fecha_hora": "2026-10-15T13:07:00+02:00",
+      "fecha_hora": "2026-10-14T21:07:00+02:00",
       "carpeta": "2026-10-15_resumen13",
       "version_juego": "Pre-alfa 0.1.85",
       "imagenes": [
@@ -529,7 +531,7 @@
     {
       "n": 30,
       "titulo": "Diario #14 · Salvar también a los animales",
-      "fecha_hora": "2026-10-15T18:07:00+02:00",
+      "fecha_hora": "2026-10-15T11:07:00+02:00",
       "carpeta": "2026-10-15_resumen14",
       "version_juego": "Pre-alfa 0.1.87",
       "imagenes": [
@@ -547,7 +549,7 @@
     {
       "n": 31,
       "titulo": "Diario #15 · Bala a bala",
-      "fecha_hora": "2026-10-15T21:07:00+02:00",
+      "fecha_hora": "2026-10-15T13:07:00+02:00",
       "carpeta": "2026-10-15_resumen15",
       "version_juego": "Pre-alfa 0.1.91",
       "imagenes": [
@@ -564,7 +566,7 @@
     {
       "n": 32,
       "titulo": "Diario #16 · Ráfagas, peso y peines",
-      "fecha_hora": "2026-10-16T13:07:00+02:00",
+      "fecha_hora": "2026-10-15T16:07:00+02:00",
       "carpeta": "2026-10-16_resumen16",
       "version_juego": "Pre-alfa 0.2.1",
       "imagenes": [
@@ -582,7 +584,7 @@
     {
       "n": 33,
       "titulo": "Diario #17 · Píxel a píxel, y la primera luz",
-      "fecha_hora": "2026-10-16T18:07:00+02:00",
+      "fecha_hora": "2026-10-15T18:07:00+02:00",
       "carpeta": "2026-10-16_resumen17",
       "version_juego": "Pre-alfa 0.2.5",
       "imagenes": [
