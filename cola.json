@@ -560,6 +560,24 @@
       "intentos": 0,
       "ia": true,
       "aprobada_en": "2026-10-13T18:45:00+02:00"
+    },
+    {
+      "n": 32,
+      "titulo": "Diario #16 · Ráfagas, peso y peines",
+      "fecha_hora": "2026-10-16T13:07:00+02:00",
+      "carpeta": "2026-10-16_resumen16",
+      "version_juego": "Pre-alfa 0.2.1",
+      "imagenes": [
+        "01_rafaga.jpg",
+        "02_apoyada.jpg",
+        "03_pesada_al_suelo.jpg",
+        "04_peine.jpg"
+      ],
+      "texto": "Diario #16 · Ráfagas, peso y peines\n\nEsta noche el arsenal ha crecido, pero cada arma tiene su precio.\n\n• Armas automáticas: mantén DISPARAR y suelta una ráfaga; con un toque, un solo tiro. Cada bala sube la mira y en el móvil se compensa deslizando el dedo hacia abajo.\n• Subfusil, M4 y AK, cada uno con su calibre: los cargadores de uno no valen para el otro.\n• Ametralladoras: de pie cuesta controlarlas, tumbado o tras una cobertura van apoyadas. La pesada es tan pesada que Chris va a la mitad de velocidad y no puede saltar; si quieres moverte, la dejas en el suelo y vuelves a por ella.\n• El peso cuenta: con un arma larga en la mano, Chris anda un poco más despacio.\n• En la mesa de munición: el portacartuchos de la escopeta, el peine (10 balas de golpe) y el cargador rápido.\n\n1 · Ráfaga\n2 · Apoyada\n3 · Pesa demasiado: al suelo\n4 · El peine\n\nPrototipo pre-alfa 0.2.1, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de combate).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Automatic weapons with real recoil, machine guns you rest on cover, weight that slows you down — and stripper clips for the ammo table.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "intentos": 0,
+      "ia": true,
+      "aprobada_en": "2026-10-14T09:27:00+02:00"
     }
   ]
 }
