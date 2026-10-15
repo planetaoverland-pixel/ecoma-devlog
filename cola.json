@@ -610,10 +610,13 @@
     "04_sala_oscura.jpg"
    ],
    "texto": "Diario #17 · Píxel a píxel, y la primera luz\n\nHoy no hay mecánicas nuevas: hoy toca que el laboratorio se vea mejor.\n\n• Objetos en pixel art: armas, cargadores, baterías, silenciadores, vendas y materiales ya no son rectángulos. Siguen siendo arte provisional, pero con contorno, sombras y brillos.\n• La MOCHILA enseña lo que llevas dibujado en grande, con su cantidad.\n• Primera prueba de luz: los fluorescentes, el fogonazo de la pistola, la alarma, la ecolita y la linterna del Vigilante aclaran poco a poco el color de lo que tienen cerca, sin perder el aspecto de píxel.\n• En las salas oscuras, cada luz es un foco con su halo. Y la linterna del Vigilante ilumina justo lo que él ve.\n\n1 · La MOCHILA\n2 · «Despertar» bajo los fluorescentes\n3 · Media luz y una veta de ecolita\n4 · A oscuras, frente a la linterna\n\nPrototipo pre-alfa 0.2.5, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de luz).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Pixel-art items, a backpack you can actually see, and a first test of dynamic light that keeps the pixel look.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-   "estado": "APROBADA",
+   "estado": "PUBLICADA",
    "intentos": 0,
    "ia": true,
-   "aprobada_en": "2026-10-14T12:00:00+02:00"
+   "aprobada_en": "2026-10-14T12:00:00+02:00",
+   "publicado_en": "2026-10-15T19:09:38+02:00",
+   "enlace": "https://www.instagram.com/p/DehdiHSCTCk/",
+   "nota": "La API devolvió \"Application request limit reached (code 4)\" pero el post sí se publicó (verificado en el feed)."
   },
   {
    "n": 34,
