@@ -886,6 +886,24 @@
       "intentos": 0,
       "ia": true,
       "aprobada_en": "2026-10-16T21:41:00+02:00"
+    },
+    {
+      "n": 48,
+      "titulo": "Diario #32 · Tres puzles con lo de ayer",
+      "fecha_hora": "2026-10-18T18:07:00+02:00",
+      "carpeta": "2026-10-18_resumen32",
+      "version_juego": "Pre-alfa 0.2.119",
+      "imagenes": [
+        "1_una_luz.jpg",
+        "2_botella.jpg",
+        "3_a_oscuras.jpg",
+        "4_humo.jpg"
+      ],
+      "texto": "Diario #32 · Tres puzles con lo de ayer\n\nEsta noche he montado tres puzles nuevos sin inventar nada: solo con la luz que distrae, los objetos que se lanzan, el humo y las luces que se rompen.\n\n• Una luz para dos: dos Ecos rondan justo donde tienes que bajar. Una palanca enciende un foco bajo la pasarela y los dos van a mirar.\n• Apaga la luz: el guardia vigila bajo el único tubo encendido. Una botella bien tirada y el pasillo se queda a oscuras… y a oscuras no te ve.\n• Humo y lata: agachado en el humo no toses y nadie te ve. Al final, una lata y un hueco para que el Eco pase de largo.\n\n1 · Una luz para dos\n2 · La botella en el aire\n3 · A oscuras\n4 · En el humo\n\nPrototipo pre-alfa 0.2.119, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Three new puzzles built only from what we already had: a light that lures, a bottle that kills the lights, and smoke to hide in.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "ia": true,
+      "aprobada_en": null
     }
   ]
 }
