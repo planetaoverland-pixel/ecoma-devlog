@@ -844,6 +844,23 @@
    "intentos": 0,
    "ia": true,
    "aprobada_en": "2026-10-16T13:05:00+02:00"
+  },
+  {
+   "n": 46,
+   "titulo": "Diario #30 · Luces que se rompen y explosiones que lo mueven todo",
+   "fecha_hora": "2026-10-18T13:07:00+02:00",
+   "carpeta": "2026-10-18_resumen30",
+   "version_juego": "Pre-alfa 0.2.109",
+   "imagenes": [
+    "1_a_oscuras.jpg",
+    "2_bidones.jpg",
+    "3_extintor.jpg",
+    "4_bengala.jpg"
+   ],
+   "texto": "Diario #30 · Luces que se rompen y explosiones que lo mueven todo\n\nEsta tarde he llenado el laboratorio de física de verdad.\n\n• Un disparo revienta un fluorescente: los cristales caen, rebotan y se quedan en el suelo crujiendo al pisarlos. Y donde ya era de noche, a oscuras, el guardia deja de verte… hasta que disparas y el fogonazo te delata.\n• Una granada ya no solo rompe: apaga el fuego que tiene al lado, prende lo de alrededor, empuja el humo, el agua y lo que haya suelto por el suelo, y hace caer polvo del techo.\n• Un extintor reventado de un tiro apaga un incendio en una nube blanca. Un bidón agujereado pierde combustible, prende y revienta… y se lleva a los de al lado.\n• Bengalas rojas: alumbran, echan chispas y se apagan poco a poco.\n\n1 · A oscuras, el guardia no te ve\n2 · Bidones en cadena\n3 · El extintor\n4 · Bengala roja\n\nPrototipo pre-alfa 0.2.109, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de físicas).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Shoot out the lights and the guard loses you in the dark; blasts that put out fires and push smoke, water and debris; chain-reacting fuel drums and red flares.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "estado": "PENDIENTE",
+   "intentos": 0,
+   "ia": true
   }
  ]
 }
