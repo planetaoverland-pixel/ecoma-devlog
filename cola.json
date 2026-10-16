@@ -736,6 +736,24 @@
    "aprobada_en": "2026-10-15T17:30:00+02:00"
   },
   {
+   "n": 40,
+   "titulo": "Diario #24 · Cómo se coge un arma",
+   "fecha_hora": "2026-10-17T11:07:00+02:00",
+   "carpeta": "2026-10-17_resumen24b",
+   "version_juego": "Pre-alfa 0.2.106",
+   "imagenes": [
+    "1_en_la_mano.jpg",
+    "2_armas.jpg",
+    "3_al_hombro.jpg",
+    "4_cadera.jpg"
+   ],
+   "texto": "Diario #24 · Cómo se coge un arma\n\nHe rehecho las armas desde cero, pieza a pieza y a su medida real, y he cambiado cómo las sujeta Chris.\n\n• Ocho armas con el doble de detalle: un AK ya no se confunde con un M4, y al recargar sale el cargador y se mueve la corredera.\n• La mano rodea la empuñadura: el brazo va por delante del arma, como de verdad.\n• Al apuntar, la culata va al hombro y el arma gira desde ahí.\n• Sin apuntar, se dispara de cadera: el arma baja y los tiros se abren mucho más.\n\n1 · En la mano\n2 · Las ocho armas\n3 · Al hombro\n4 · De cadera\n\nPrototipo pre-alfa 0.2.106, gratis en ramsys.es/games/ecoma.\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: All eight guns rebuilt piece by piece at real scale — stock to the shoulder when aiming, hip fire when you don't.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "estado": "APROBADA",
+   "intentos": 0,
+   "ia": true,
+   "aprobada_en": "2026-10-16T15:00:00+02:00"
+  },
+  {
    "n": 41,
    "titulo": "Diario #25 · Un mundo de piezas",
    "fecha_hora": "2026-10-17T13:07:00+02:00",
