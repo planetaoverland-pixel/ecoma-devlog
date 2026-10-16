@@ -804,6 +804,24 @@
    "intentos": 0,
    "ia": true,
    "aprobada_en": "2026-10-16T12:30:00+02:00"
+  },
+  {
+   "n": 45,
+   "titulo": "Diario #29 · Del laboratorio al mar",
+   "fecha_hora": "2026-10-18T11:07:00+02:00",
+   "carpeta": "2026-10-18_resumen29",
+   "version_juego": "Pre-alfa 0.2.99",
+   "imagenes": [
+    "1_laboratorio.jpg",
+    "2_gasolinera.jpg",
+    "3_bosque.jpg",
+    "4_puerto.jpg"
+   ],
+   "texto": "Diario #29 · Del laboratorio al mar\n\nCuatro sitios nuevos para el camino de Chris, todos de noche y con su luz:\n\n• El laboratorio donde se estudia a los Ecos: jaulas con luz cian, tanques con escarcha y un escáner que nadie apagó.\n• Una gasolinera abandonada en la carretera, con la marquesina aún encendida… y surtidores que arden.\n• El bosque junto a la carretera: un tronco caído, una roca y un coche en la cuneta para esconderse.\n• El puerto: contenedores, una grúa con su luz roja y una venda arriba del contenedor (hay que saltar).\n\n1 · El laboratorio\n2 · La gasolinera\n3 · El bosque\n4 · El puerto\n\nPrototipo pre-alfa 0.2.99, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Four new night-time places on the way out: the Echo research lab, a dead gas station, the roadside forest and the harbour.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "estado": "APROBADA",
+   "intentos": 0,
+   "ia": true,
+   "aprobada_en": "2026-10-16T13:05:00+02:00"
   }
  ]
 }
