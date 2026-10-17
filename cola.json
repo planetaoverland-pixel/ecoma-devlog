@@ -827,10 +827,10 @@
         "4_refugio.jpg"
       ],
       "texto": "Diario #28 · Agua en orden y una ciudad a oscuras\n\nUn puzle nuevo y tres sitios para cuando Chris salga de la Instalación.\n\n• Los vasos comunicantes: una caja flota en un depósito vacío y la salida está alta. Arriba hay dos tanques llenos: uno unido al depósito por una válvula y otro encima con una escotilla. Con toda el agua junta la caja llega justo… si lo haces en orden. Al revés, el agua rebosa y se pierde.\n• Una calle de noche, una azotea con bengalas de socorro y un refugio calentado por un bidón con fuego.\n\n1 · Los vasos comunicantes\n2 · La calle\n3 · La azotea\n4 · El refugio\n\nPrototipo pre-alfa 0.2.113, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Open the valve first, then the hatch: water in the right order lifts the crate to the exit.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": null,
+      "aprobada_en": "2026-10-17 06:20",
       "nota": "16 oct noche: fotos rehechas con la luz nueva de los laboratorios (0.2.113); vuelve a PENDIENTE."
     },
     {
@@ -846,10 +846,10 @@
         "4_puerto.jpg"
       ],
       "texto": "Diario #29 · Del laboratorio al mar\n\nCuatro sitios nuevos para el camino de Chris, todos de noche y con su luz:\n\n• El laboratorio donde se estudia a los Ecos: jaulas con luz cian, tanques con escarcha y un escáner que nadie apagó.\n• Una gasolinera abandonada en la carretera, con la marquesina aún encendida… y surtidores que arden.\n• El bosque junto a la carretera: un tronco caído, una roca y un coche en la cuneta para esconderse.\n• El puerto: contenedores, una grúa con su luz roja y una venda arriba del contenedor (hay que saltar).\n\n1 · El laboratorio\n2 · La gasolinera\n3 · El bosque\n4 · El puerto\n\nPrototipo pre-alfa 0.2.113, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Four new night-time places on the way out: the Echo research lab, a dead gas station, the roadside forest and the harbour.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": null,
+      "aprobada_en": "2026-10-17 06:20",
       "nota": "16 oct noche: fotos rehechas con la luz nueva de los laboratorios (0.2.113); vuelve a PENDIENTE."
     },
     {
@@ -900,10 +900,10 @@
         "4_humo.jpg"
       ],
       "texto": "Diario #32 · Tres puzles con lo de ayer\n\nEsta noche he montado tres puzles nuevos sin inventar nada: solo con la luz que distrae, los objetos que se lanzan, el humo y las luces que se rompen.\n\n• Una luz para dos: dos Ecos rondan justo donde tienes que bajar. Una palanca enciende un foco bajo la pasarela y los dos van a mirar.\n• Apaga la luz: el guardia vigila bajo un tubo encendido. Una botella bien tirada (hay un tubo a la entrada para probar sin peligro) y el pasillo se queda a oscuras… y a oscuras no te ve.\n• Humo y lata: agachado en el humo no toses y nadie te ve. Al final, una lata junto a un hueco: el Eco viene a mirarla y, mientras está de espaldas, sales.\n\n1 · Una luz para dos\n2 · La botella en el aire\n3 · A oscuras\n4 · En el humo\n\nPrototipo pre-alfa 0.2.123, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Three new puzzles built only from what we already had: a light that lures, a bottle that kills the lights, and smoke to hide in.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": null
+      "aprobada_en": "2026-10-17 06:20"
     },
     {
       "n": 49,
@@ -918,10 +918,10 @@
         "4_bosque.jpg"
       ],
       "texto": "Diario #33 · Por fin, la calle\n\nHasta ahora los laboratorios de calle, puerto o bosque se veían sobre la pared gris del laboratorio. Esta noche les he dado cielo.\n\n• Un cielo nocturno con luna y estrellas, y detrás tres capas de ciudad, pinos o grúas del puerto. Lo lejano es más claro y azulado, y cada capa se mueve más despacio cuanto más lejos está: al andar, el fondo tiene profundidad.\n• Llueve en la calle y en el puerto, con salpicaduras donde caen las gotas, y en el bosque caen hojas con el viento. La lluvia y el viento también suenan.\n• Todo hecho por código, sin imágenes: el fondo se dibuja una vez y la lluvia entera cuesta una sola orden de dibujo, para que el móvil no lo note.\n\n1 · Lluvia en la calle\n2 · Antes y después\n3 · El puerto\n4 · El bosque\n\nPrototipo pre-alfa 0.2.129, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: The outdoor test levels finally have a sky: a night city, forest or harbour in parallax layers, plus rain and falling leaves, all drawn in code.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": null
+      "aprobada_en": "2026-10-17 06:20"
     },
     {
       "n": 50,
