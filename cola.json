@@ -904,6 +904,24 @@
       "intentos": 0,
       "ia": true,
       "aprobada_en": null
+    },
+    {
+      "n": 49,
+      "titulo": "Diario #33 · Por fin, la calle",
+      "fecha_hora": "2026-10-18T20:07:00+02:00",
+      "carpeta": "2026-10-18_resumen33",
+      "version_juego": "Pre-alfa 0.2.129",
+      "imagenes": [
+        "1_lluvia.jpg",
+        "2_antes_despues.jpg",
+        "3_puerto.jpg",
+        "4_bosque.jpg"
+      ],
+      "texto": "Diario #33 · Por fin, la calle\n\nHasta ahora los laboratorios de calle, puerto o bosque se veían sobre la pared gris del laboratorio. Esta noche les he dado cielo.\n\n• Un cielo nocturno con luna y estrellas, y detrás tres capas de ciudad, pinos o grúas del puerto. Lo lejano es más claro y azulado, y cada capa se mueve más despacio cuanto más lejos está: al andar, el fondo tiene profundidad.\n• Llueve en la calle y en el puerto, con salpicaduras donde caen las gotas, y en el bosque caen hojas con el viento. La lluvia y el viento también suenan.\n• Todo hecho por código, sin imágenes: el fondo se dibuja una vez y la lluvia entera cuesta una sola orden de dibujo, para que el móvil no lo note.\n\n1 · Lluvia en la calle\n2 · Antes y después\n3 · El puerto\n4 · El bosque\n\nPrototipo pre-alfa 0.2.129, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: The outdoor test levels finally have a sky: a night city, forest or harbour in parallax layers, plus rain and falling leaves, all drawn in code.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "ia": true,
+      "aprobada_en": null
     }
   ]
 }
