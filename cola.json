@@ -936,10 +936,10 @@
         "4_borde.jpg"
       ],
       "texto": "Diario #34 · Para jugar como cada uno juegue\n\nEsta noche he dedicado un buen rato a la accesibilidad y a los que jugáis en el móvil. Todo está en OPCIONES y viene apagado, para que cada uno elija:\n\n• Flechas de ruido: mucha gente juega en el móvil sin sonido. Si un Eco grita, alguien dispara o salta una alarma fuera de la pantalla, sale una flecha en el borde hacia donde ha sido (roja si es un Eco).\n• Luces con forma: las luces de las puertas y palancas ya no dicen las cosas solo con rojo y verde; apagadas se ven como un cuadrado con un aspa.\n• Forcejeo sin machacar: si un Eco te agarra, puedes mantener el botón en vez de pulsarlo sin parar.\n• Y de prueba, el borde seguro: andando te paras al borde de un hueco en vez de caerte sin querer, y con abajo te cuelgas para bajar sin hacer ruido.\n\n1 · Las opciones nuevas\n2 · Flechas de ruido fuera de pantalla\n3 · Luces con forma\n4 · Colgarse del borde\n\nPrototipo pre-alfa 0.2.141, gratis en ramsys.es/games/ecoma.\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Accessibility night: off-screen noise arrows for playing muted, shape-coded lights for colour-blind players, hold-to-struggle, and a safe-ledge option.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": null
+      "aprobada_en": "2026-10-17 06:36"
     }
   ]
 }
