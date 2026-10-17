@@ -983,7 +983,9 @@
       ],
       "texto": "Diario #36 · Capas, lluvia y una linterna\n\nEsta noche he trabajado la profundidad: que los fondos se muevan como si estuvieran lejos de verdad.\n\n• Una carretera de montaña al atardecer en seis capas: montañas lejanas, montañas cercanas con su sombra, colinas, bosque, pinos y hierba por delante de Chris. Cada una se mueve a su velocidad.\n• Detrás del cristal de la técnica ya no hay una pared plana: se ve el laboratorio entero, en capas, con perspectiva.\n• La lluvia moja: cae en tres profundidades, va a rachas, deja charcos y oscurece la ropa de quien está debajo.\n• Y una linterna de prueba, en el arma o en la mano. Alumbra… y también te delata.\n\n1 · La carretera de montaña\n2 · Tras el cristal\n3 · Lluvia en la calle\n4 · La linterna\n\nPrototipo pre-alfa 0.2.180, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Six-layer parallax mountains, a whole lab seen through the glass, rain that soaks you — and a test flashlight that also gives you away.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
       "estado": "APROBADA",
-      "intentos": 0
+      "intentos": 0,
+      "ia": true,
+      "aprobada_en": "2026-10-17T22:56:00+02:00"
     }
   ]
 }
