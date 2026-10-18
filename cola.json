@@ -1018,6 +1018,23 @@
       "intentos": 0,
       "ia": false,
       "aprobada_en": "2026-10-18 09:12"
+    },
+    {
+      "n": 55,
+      "titulo": "Diario #39 · El búnker",
+      "fecha_hora": "2026-10-20T11:07:00+02:00",
+      "carpeta": "2026-10-20_resumen39",
+      "version_juego": "Pre-alfa 0.2.205",
+      "imagenes": [
+        "1_despierta.jpg",
+        "2_volante.jpg",
+        "3_vapor.jpg"
+      ],
+      "texto": "Diario #39 · El búnker\n\nHe rehecho la sala donde empieza todo.\n\nAntes era una caja gris con mucho aire encima. Ahora es un búnker: techo con tuberías, paneles remachados, una grieta por la que asoman cristales azules y una puerta blindada.\n\nTiene el doble de detalle y la cámara se acerca: Chris ocupa casi un tercio de la pantalla.\n\nPara salir hay que girar el volante. La puerta suelta vapor, como una sala presurizada, y Chris se mete por el fondo.\n\n1 · Despertar\n2 · El volante\n3 · Vapor\n\nPrototipo pre-alfa 0.2.205, gratis en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: I rebuilt the room where it all begins: a bunker with twice the detail, a closer camera and a vault door that breathes out steam.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "intentos": 0,
+      "ia": false,
+      "aprobada_en": "2026-10-18 11:10"
     }
   ]
 }
