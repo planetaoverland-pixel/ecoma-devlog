@@ -928,11 +928,10 @@
         "4_bosque.jpg"
       ],
       "texto": "Diario #33 · Por fin, la calle\n\nHasta ahora los laboratorios de calle, puerto o bosque se veían sobre la pared gris del laboratorio. Esta noche les he dado cielo.\n\n• Un cielo nocturno con luna y estrellas, y detrás tres capas de ciudad, pinos o grúas del puerto. Lo lejano es más claro y azulado, y cada capa se mueve más despacio cuanto más lejos está: al andar, el fondo tiene profundidad.\n• Llueve en la calle y en el puerto, con salpicaduras donde caen las gotas, y en el bosque caen hojas con el viento. La lluvia y el viento también suenan.\n• Todo hecho por código, sin imágenes: el fondo se dibuja una vez y la lluvia entera cuesta una sola orden de dibujo, para que el móvil no lo note.\n\n1 · Lluvia en la calle\n2 · Antes y después\n3 · El puerto\n4 · El bosque\n\nPrototipo pre-alfa 0.2.129, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\n\n— RAMSYS Game Studio\n\nEN: The outdoor test levels finally have a sky: a night city, forest or harbour in parallax layers, plus rain and falling leaves, all drawn in code.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-17 06:20",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:05"
     },
     {
       "n": 50,
@@ -947,11 +946,10 @@
         "4_borde.jpg"
       ],
       "texto": "Diario #34 · Para jugar como cada uno juegue\n\nEsta noche he dedicado un buen rato a la accesibilidad y a los que jugáis en el móvil. Todo está en OPCIONES y viene apagado, para que cada uno elija:\n\n• Flechas de ruido: mucha gente juega en el móvil sin sonido. Si un Eco grita, alguien dispara o salta una alarma fuera de la pantalla, sale una flecha en el borde hacia donde ha sido (roja si es un Eco).\n• Luces con forma: las luces de las puertas y palancas ya no dicen las cosas solo con rojo y verde; apagadas se ven como un cuadrado con un aspa.\n• Forcejeo sin machacar: si un Eco te agarra, puedes mantener el botón en vez de pulsarlo sin parar.\n• Y de prueba, el borde seguro: andando te paras al borde de un hueco en vez de caerte sin querer, y con abajo te cuelgas para bajar sin hacer ruido.\n\n1 · Las opciones nuevas\n2 · Flechas de ruido fuera de pantalla\n3 · Luces con forma\n4 · Colgarse del borde\n\nPrototipo pre-alfa 0.2.141, gratis en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: Accessibility night: off-screen noise arrows for playing muted, shape-coded lights for colour-blind players, hold-to-struggle, and a safe-ledge option.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-17 06:36",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:05"
     },
     {
       "n": 51,
@@ -966,11 +964,10 @@
         "4_silenciador.jpg"
       ],
       "texto": "Diario #35 · La mesa de armas\n\nEn los refugios habrá una mesa para cuidar el arma. Hoy he montado la primera: una Colt M1911 que se desmonta sola encima de la mesa, sin manos, como en The Last of Us.\n\n• Sacas el cargador y se aparta a un lado de la mesa.\n• Tiras de la corredera: si llegaste con una bala en la recámara, salta y rueda por la mesa; si llegaste sin balas, no sale nada.\n• Municionar bala a bala: cada bala entra por los labios del cargador y se va viendo por sus agujeros. Vacío, por los agujeros solo se ve negro.\n• Y el silenciador se enrosca en la boca del cañón.\n\n1 · La bala salta\n2 · El cargador, fuera\n3 · Bala a bala\n4 · Con silenciador\n\nPrototipo pre-alfa 0.2.156, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios → Mesa de armas).\n\n— RAMSYS Game Studio\n\nEN: A gun bench for the shelters: the M1911 field-strips itself on the table — eject the mag, rack the slide, load round by round and watch them show through the witness holes.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-17 09:46",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:05"
     },
     {
       "n": 52,
@@ -985,11 +982,10 @@
         "4_linterna.jpg"
       ],
       "texto": "Diario #36 · Capas, lluvia y una linterna\n\nEsta noche he trabajado la profundidad: que los fondos se muevan como si estuvieran lejos de verdad.\n\n• Una carretera de montaña al atardecer en seis capas: montañas lejanas, montañas cercanas con su sombra, colinas, bosque, pinos y hierba por delante de Chris. Cada una se mueve a su velocidad.\n• Detrás del cristal de la técnica ya no hay una pared plana: se ve el laboratorio entero, en capas, con perspectiva.\n• La lluvia moja: cae en tres profundidades, va a rachas, deja charcos y oscurece la ropa de quien está debajo.\n• Y una linterna de prueba, en el arma o en la mano. Alumbra… y también te delata.\n\n1 · La carretera de montaña\n2 · Tras el cristal\n3 · Lluvia en la calle\n4 · La linterna\n\nPrototipo pre-alfa 0.2.180, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\n\n— RAMSYS Game Studio\n\nEN: Six-layer parallax mountains, a whole lab seen through the glass, rain that soaks you — and a test flashlight that also gives you away.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-17 22:56",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:05"
     },
     {
       "n": 53,
