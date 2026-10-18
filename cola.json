@@ -894,10 +894,11 @@
         "3_humo.jpg"
       ],
       "texto": "Diario #31 · Una luz que distrae y un humo que esconde\n\nDos ideas nuevas para pasar sin que te vean.\n\n• Cebo de luz: subo a una pasarela, tiro de una palanca y se enciende un foco lejos del Eco. Él va a mirar, se queda con un «?» sobre la cabeza, busca un momento… y vuelve a su ronda. Mientras tanto, yo ya he bajado. Con una bengala pasa lo mismo.\n• El humo esconde: en una sala que arde, si hay humo espeso entre los ojos del guardia y yo, no me ve. Eso sí, de pie toso y me canso; agachado, no.\n\n1 · Un foco que se enciende de golpe\n2 · El Eco va a mirar\n3 · El guardia no ve a través del humo\n\nPrototipo pre-alfa 0.2.112, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio del humo y la luz).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: A light that suddenly switches on lures the Echoes away for a look, and thick smoke hides you from guards — just stay low or you'll cough.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": "2026-10-16T21:41:00+02:00"
+      "aprobada_en": "2026-10-16T21:41:00+02:00",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     },
     {
       "n": 48,
