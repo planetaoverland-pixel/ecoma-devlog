@@ -856,11 +856,12 @@
         "4_puerto.jpg"
       ],
       "texto": "Diario #29 · Del laboratorio al mar\n\nCuatro sitios nuevos para el camino de Chris, todos de noche y con su luz:\n\n• El laboratorio donde se estudia a los Ecos: jaulas con luz cian, tanques con escarcha y un escáner que nadie apagó.\n• Una gasolinera abandonada en la carretera, con la marquesina aún encendida… y surtidores que arden.\n• El bosque junto a la carretera: un tronco caído, una roca y un coche en la cuneta para esconderse.\n• El puerto: contenedores, una grúa con su luz roja y una venda arriba del contenedor (hay que saltar).\n\n1 · El laboratorio\n2 · La gasolinera\n3 · El bosque\n4 · El puerto\n\nPrototipo pre-alfa 0.2.113, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Four new night-time places on the way out: the Echo research lab, a dead gas station, the roadside forest and the harbour.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
       "aprobada_en": "2026-10-17 06:20",
-      "nota": "16 oct noche: fotos rehechas con la luz nueva de los laboratorios (0.2.113); vuelve a PENDIENTE."
+      "nota": "16 oct noche: fotos rehechas con la luz nueva de los laboratorios (0.2.113); vuelve a PENDIENTE.",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     },
     {
       "n": 46,
@@ -875,10 +876,11 @@
         "4_bengala.jpg"
       ],
       "texto": "Diario #30 · Luces que se rompen y explosiones que lo mueven todo\n\nEsta tarde he llenado el laboratorio de física de verdad.\n\n• Un disparo revienta un fluorescente: los cristales caen, rebotan y se quedan en el suelo crujiendo al pisarlos. Y donde ya era de noche, a oscuras, el guardia deja de verte… hasta que disparas y el fogonazo te delata.\n• Una granada ya no solo rompe: apaga el fuego que tiene al lado, prende lo de alrededor, empuja el humo, el agua y lo que haya suelto por el suelo, y hace caer polvo del techo.\n• Un extintor reventado de un tiro apaga un incendio en una nube blanca. Un bidón agujereado pierde combustible, prende y revienta… y se lleva a los de al lado.\n• Bengalas rojas: alumbran, echan chispas y se apagan poco a poco.\n\n1 · A oscuras, el guardia no te ve\n2 · Bidones en cadena\n3 · El extintor\n4 · Bengala roja\n\nPrototipo pre-alfa 0.2.109, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de físicas).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Shoot out the lights and the guard loses you in the dark; blasts that put out fires and push smoke, water and debris; chain-reacting fuel drums and red flares.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": "2026-10-16T18:26:00+02:00"
+      "aprobada_en": "2026-10-16T18:26:00+02:00",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     },
     {
       "n": "47",
@@ -910,10 +912,11 @@
         "4_humo.jpg"
       ],
       "texto": "Diario #32 · Tres puzles con lo de ayer\n\nEsta noche he montado tres puzles nuevos sin inventar nada: solo con la luz que distrae, los objetos que se lanzan, el humo y las luces que se rompen.\n\n• Una luz para dos: dos Ecos rondan justo donde tienes que bajar. Una palanca enciende un foco bajo la pasarela y los dos van a mirar.\n• Apaga la luz: el guardia vigila bajo un tubo encendido. Una botella bien tirada (hay un tubo a la entrada para probar sin peligro) y el pasillo se queda a oscuras… y a oscuras no te ve.\n• Humo y lata: agachado en el humo no toses y nadie te ve. Al final, una lata junto a un hueco: el Eco viene a mirarla y, mientras está de espaldas, sales.\n\n1 · Una luz para dos\n2 · La botella en el aire\n3 · A oscuras\n4 · En el humo\n\nPrototipo pre-alfa 0.2.123, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Three new puzzles built only from what we already had: a light that lures, a bottle that kills the lights, and smoke to hide in.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": "2026-10-17 06:20"
+      "aprobada_en": "2026-10-17 06:20",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     },
     {
       "n": 49,
@@ -928,10 +931,11 @@
         "4_bosque.jpg"
       ],
       "texto": "Diario #33 · Por fin, la calle\n\nHasta ahora los laboratorios de calle, puerto o bosque se veían sobre la pared gris del laboratorio. Esta noche les he dado cielo.\n\n• Un cielo nocturno con luna y estrellas, y detrás tres capas de ciudad, pinos o grúas del puerto. Lo lejano es más claro y azulado, y cada capa se mueve más despacio cuanto más lejos está: al andar, el fondo tiene profundidad.\n• Llueve en la calle y en el puerto, con salpicaduras donde caen las gotas, y en el bosque caen hojas con el viento. La lluvia y el viento también suenan.\n• Todo hecho por código, sin imágenes: el fondo se dibuja una vez y la lluvia entera cuesta una sola orden de dibujo, para que el móvil no lo note.\n\n1 · Lluvia en la calle\n2 · Antes y después\n3 · El puerto\n4 · El bosque\n\nPrototipo pre-alfa 0.2.129, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: The outdoor test levels finally have a sky: a night city, forest or harbour in parallax layers, plus rain and falling leaves, all drawn in code.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": "2026-10-17 06:20"
+      "aprobada_en": "2026-10-17 06:20",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     },
     {
       "n": 50,
@@ -946,10 +950,11 @@
         "4_borde.jpg"
       ],
       "texto": "Diario #34 · Para jugar como cada uno juegue\n\nEsta noche he dedicado un buen rato a la accesibilidad y a los que jugáis en el móvil. Todo está en OPCIONES y viene apagado, para que cada uno elija:\n\n• Flechas de ruido: mucha gente juega en el móvil sin sonido. Si un Eco grita, alguien dispara o salta una alarma fuera de la pantalla, sale una flecha en el borde hacia donde ha sido (roja si es un Eco).\n• Luces con forma: las luces de las puertas y palancas ya no dicen las cosas solo con rojo y verde; apagadas se ven como un cuadrado con un aspa.\n• Forcejeo sin machacar: si un Eco te agarra, puedes mantener el botón en vez de pulsarlo sin parar.\n• Y de prueba, el borde seguro: andando te paras al borde de un hueco en vez de caerte sin querer, y con abajo te cuelgas para bajar sin hacer ruido.\n\n1 · Las opciones nuevas\n2 · Flechas de ruido fuera de pantalla\n3 · Luces con forma\n4 · Colgarse del borde\n\nPrototipo pre-alfa 0.2.141, gratis en ramsys.es/games/ecoma.\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Accessibility night: off-screen noise arrows for playing muted, shape-coded lights for colour-blind players, hold-to-struggle, and a safe-ledge option.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": "2026-10-17 06:36"
+      "aprobada_en": "2026-10-17 06:36",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     },
     {
       "n": 51,
@@ -964,10 +969,11 @@
         "4_silenciador.jpg"
       ],
       "texto": "Diario #35 · La mesa de armas\n\nEn los refugios habrá una mesa para cuidar el arma. Hoy he montado la primera: una Colt M1911 que se desmonta sola encima de la mesa, sin manos, como en The Last of Us.\n\n• Sacas el cargador y se aparta a un lado de la mesa.\n• Tiras de la corredera: si llegaste con una bala en la recámara, salta y rueda por la mesa; si llegaste sin balas, no sale nada.\n• Municionar bala a bala: cada bala entra por los labios del cargador y se va viendo por sus agujeros. Vacío, por los agujeros solo se ve negro.\n• Y el silenciador se enrosca en la boca del cañón.\n\n1 · La bala salta\n2 · El cargador, fuera\n3 · Bala a bala\n4 · Con silenciador\n\nPrototipo pre-alfa 0.2.156, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios → Mesa de armas).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: A gun bench for the shelters: the M1911 field-strips itself on the table — eject the mag, rack the slide, load round by round and watch them show through the witness holes.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": "2026-10-17 09:46"
+      "aprobada_en": "2026-10-17 09:46",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     },
     {
       "n": 52,
@@ -982,10 +988,11 @@
         "4_linterna.jpg"
       ],
       "texto": "Diario #36 · Capas, lluvia y una linterna\n\nEsta noche he trabajado la profundidad: que los fondos se muevan como si estuvieran lejos de verdad.\n\n• Una carretera de montaña al atardecer en seis capas: montañas lejanas, montañas cercanas con su sombra, colinas, bosque, pinos y hierba por delante de Chris. Cada una se mueve a su velocidad.\n• Detrás del cristal de la técnica ya no hay una pared plana: se ve el laboratorio entero, en capas, con perspectiva.\n• La lluvia moja: cae en tres profundidades, va a rachas, deja charcos y oscurece la ropa de quien está debajo.\n• Y una linterna de prueba, en el arma o en la mano. Alumbra… y también te delata.\n\n1 · La carretera de montaña\n2 · Tras el cristal\n3 · Lluvia en la calle\n4 · La linterna\n\nPrototipo pre-alfa 0.2.180, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\nParte del arte se ha creado con ayuda de IA y retocado a mano.\n\n— RAMSYS Game Studio\n\nEN: Six-layer parallax mountains, a whole lab seen through the glass, rain that soaks you — and a test flashlight that also gives you away.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "APROBADA",
+      "estado": "EN_PAUSA",
       "intentos": 0,
       "ia": true,
-      "aprobada_en": "2026-10-17 22:56"
+      "aprobada_en": "2026-10-17 22:56",
+      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
     }
   ]
 }
