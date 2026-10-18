@@ -1002,6 +1002,22 @@
       "intentos": 0,
       "ia": false,
       "aprobada_en": "2026-10-18 08:52"
+    },
+    {
+      "n": 54,
+      "titulo": "Diario #38 · ¡Hop!",
+      "fecha_hora": "2026-10-19T21:07:00+02:00",
+      "carpeta": "2026-10-19_resumen38",
+      "version_juego": "Pre-alfa 0.2.191",
+      "imagenes": [
+        "1.jpg",
+        "2.jpg"
+      ],
+      "texto": "Diario #38 · ¡Hop!\n\nHe repasado uno a uno todos los laboratorios para comprobar que en cada uno se puede salvar a todos los supervivientes.\n\nEn dos no se podía: los supervivientes se quedaban parados detrás de una cobertura de medio metro. No sabían subir.\n\nAsí que estoy probando a enseñarles. Si chocan con algo bajo, se suben con un «¡Hop!». Paredes y puertas, no.\n\n1 · Rosa sube\n2 · Ya está arriba\n\nPrototipo pre-alfa 0.2.191, gratis en ramsys.es/games/ecoma (Testeadores → MUNDO → «Supervivientes se suben a lo bajo»).\n\n— RAMSYS Game Studio\n\nEN: I went through every test level to make sure every survivor can be saved. Two couldn't — so survivors are now learning to climb low cover.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "intentos": 0,
+      "ia": false,
+      "aprobada_en": "2026-10-18 09:12"
     }
   ]
 }
