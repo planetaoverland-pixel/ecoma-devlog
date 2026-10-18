@@ -856,12 +856,11 @@
         "4_puerto.jpg"
       ],
       "texto": "Diario #29 · Del laboratorio al mar\n\nCuatro sitios nuevos para el camino de Chris, todos de noche y con su luz:\n\n• El laboratorio donde se estudia a los Ecos: jaulas con luz cian, tanques con escarcha y un escáner que nadie apagó.\n• Una gasolinera abandonada en la carretera, con la marquesina aún encendida… y surtidores que arden.\n• El bosque junto a la carretera: un tronco caído, una roca y un coche en la cuneta para esconderse.\n• El puerto: contenedores, una grúa con su luz roja y una venda arriba del contenedor (hay que saltar).\n\n1 · El laboratorio\n2 · La gasolinera\n3 · El bosque\n4 · El puerto\n\nPrototipo pre-alfa 0.2.113, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\n\n— RAMSYS Game Studio\n\nEN: Four new night-time places on the way out: the Eco research lab, a dead gas station, the roadside forest and the harbour.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-17 06:20",
-      "nota": "16 oct noche: fotos rehechas con la luz nueva de los laboratorios (0.2.113); vuelve a PENDIENTE.",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:00",
+      "nota": "16 oct noche: fotos rehechas con la luz nueva de los laboratorios (0.2.113); vuelve a PENDIENTE."
     },
     {
       "n": 46,
@@ -876,11 +875,10 @@
         "4_bengala.jpg"
       ],
       "texto": "Diario #30 · Luces que se rompen y explosiones que lo mueven todo\n\nEsta tarde he llenado el laboratorio de física de verdad.\n\n• Un disparo revienta un fluorescente: los cristales caen, rebotan y se quedan en el suelo crujiendo al pisarlos. Y donde ya era de noche, a oscuras, el guardia deja de verte… hasta que disparas y el fogonazo te delata.\n• Una granada ya no solo rompe: apaga el fuego que tiene al lado, prende lo de alrededor, empuja el humo, el agua y lo que haya suelto por el suelo, y hace caer polvo del techo.\n• Un extintor reventado de un tiro apaga un incendio en una nube blanca. Un bidón agujereado pierde combustible, prende y revienta… y se lleva a los de al lado.\n• Bengalas rojas: alumbran, echan chispas y se apagan poco a poco.\n\n1 · A oscuras, el guardia no te ve\n2 · Bidones en cadena\n3 · El extintor\n4 · Bengala roja\n\nPrototipo pre-alfa 0.2.109, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio de físicas).\n\n— RAMSYS Game Studio\n\nEN: Shoot out the lights and the guard loses you in the dark; blasts that put out fires and push smoke, water and debris; chain-reacting fuel drums and red flares.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-16T18:26:00+02:00",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:00"
     },
     {
       "n": "47",
@@ -894,11 +892,10 @@
         "3_humo.jpg"
       ],
       "texto": "Diario #31 · Una luz que distrae y un humo que esconde\n\nDos ideas nuevas para pasar sin que te vean.\n\n• Cebo de luz: subo a una pasarela, tiro de una palanca y se enciende un foco lejos del Eco. Él va a mirar, se queda con un «?» sobre la cabeza, busca un momento… y vuelve a su ronda. Mientras tanto, yo ya he bajado. Con una bengala pasa lo mismo.\n• El humo esconde: en una sala que arde, si hay humo espeso entre los ojos del guardia y yo, no me ve. Eso sí, de pie toso y me canso; agachado, no.\n\n1 · Un foco que se enciende de golpe\n2 · El Eco va a mirar\n3 · El guardia no ve a través del humo\n\nPrototipo pre-alfa 0.2.112, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorio del humo y la luz).\n\n— RAMSYS Game Studio\n\nEN: A light that suddenly switches on lures the Ecos away for a look, and thick smoke hides you from guards — just stay low or you'll cough.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-16T21:41:00+02:00",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:00"
     },
     {
       "n": 48,
@@ -913,11 +910,10 @@
         "4_humo.jpg"
       ],
       "texto": "Diario #32 · Tres puzles con lo de ayer\n\nEsta noche he montado tres puzles nuevos sin inventar nada: solo con la luz que distrae, los objetos que se lanzan, el humo y las luces que se rompen.\n\n• Una luz para dos: dos Ecos rondan justo donde tienes que bajar. Una palanca enciende un foco bajo la pasarela y los dos van a mirar.\n• Apaga la luz: el guardia vigila bajo un tubo encendido. Una botella bien tirada (hay un tubo a la entrada para probar sin peligro) y el pasillo se queda a oscuras… y a oscuras no te ve.\n• Humo y lata: agachado en el humo no toses y nadie te ve. Al final, una lata junto a un hueco: el Eco viene a mirarla y, mientras está de espaldas, sales.\n\n1 · Una luz para dos\n2 · La botella en el aire\n3 · A oscuras\n4 · En el humo\n\nPrototipo pre-alfa 0.2.123, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios).\n\n— RAMSYS Game Studio\n\nEN: Three new puzzles built only from what we already had: a light that lures, a bottle that kills the lights, and smoke to hide in.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "ia": false,
-      "aprobada_en": "2026-10-17 06:20",
-      "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+      "aprobada_en": "2026-10-18 09:00"
     },
     {
       "n": 49,
