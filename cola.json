@@ -994,6 +994,22 @@
       "ia": false,
       "aprobada_en": "2026-10-17 22:56",
       "pausa_motivo": "18 oct 08:55, Chris: quitar menciones a IA y a que el juego se juega solo; textos nuevos para volver a aprobar"
+    },
+    {
+      "n": 53,
+      "titulo": "Diario #37 · La granada de ecolita",
+      "fecha_hora": "2026-10-19T18:07:00+02:00",
+      "carpeta": "2026-10-19_resumen37",
+      "version_juego": "Pre-alfa 0.2.189",
+      "imagenes": [
+        "1.jpg",
+        "2.jpg"
+      ],
+      "texto": "Diario #37 · La granada de ecolita\n\nHasta ahora el atenuador «calmaba» a los Ecos. Esta noche he probado lo contrario: una granada que canta a favor de la ecolita. Su onda no se abre: se cierra hacia el centro.\n\n• Los Ecos que pilla suben un grado: más rápidos, ven y oyen más y aguantan más.\n• Una superviviente cerca empieza a cristalizar… y aún hay tiempo de calmarla.\n• Y un guardia que la coge se convierte y va a por sus compañeros.\n\nEs una prueba de laboratorio: todavía no sé si entrará en la historia.\n\n1 · Grado 2\n2 · ¡Calma!\n\nPrototipo pre-alfa 0.2.189, gratis en ramsys.es/games/ecoma (Testeadores → Laboratorios → D10).\n\n— RAMSYS Game Studio\n\nEN: A test grenade that feeds the ecolite instead of calming it: Ecos level up, survivors start to crystallize, and a guard turns on his own squad.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+      "estado": "APROBADA",
+      "intentos": 0,
+      "ia": false,
+      "aprobada_en": "2026-10-18 08:52"
     }
   ]
 }
