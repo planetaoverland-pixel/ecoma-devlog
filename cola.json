@@ -1106,6 +1106,22 @@
    "texto": "Diario #42 · Por debajo de la compuerta\n\nHoy he jugado «Despertar» de principio a fin, apuntando todo lo que chirriaba, y lo he ido arreglando.\n\n• Las lámparas colgadas se mecen y alumbran hacia abajo, y los charcos brillan con su luz.\n• El almacén tiene pasarela y escalera: con ABAJO, Chris baja peldaño a peldaño.\n• Entre el laboratorio y el pasillo hay una compuerta averiada que se quedó a medio subir. Suelta chispas, y la única forma de pasar es reptar por debajo.\n• Al abrirse la puerta blindada del búnker, lo de dentro es otra sala: la luz de aquí no llega, solo entra una neblina suave.\n• Y detalles: latas que ruedan y chocan, cristales que se mueven al pisarlos y un punto de control que solo avisa con un disquete.\n\n1 · La lámpara\n2 · El almacén\n3 · El laboratorio\n4 · La compuerta\n5 · La puerta del búnker\n\nPrototipo pre-alfa 0.2.217, gratis en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: A full pass on the first level: swinging lamps, a catwalk staircase, a broken shutter you have to crawl under — and a vault door that opens onto a room our light can't reach.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
    "titulo": "Diario #42 · Por debajo de la compuerta",
    "version_juego": "Pre-alfa 0.2.217"
+  },
+  {
+   "carpeta": "2026-10-20_resumen43",
+   "estado": "PENDIENTE",
+   "fecha_hora": "2026-10-20T23:07:00+02:00",
+   "ia": false,
+   "imagenes": [
+    "1_perchero_rojo.jpg",
+    "2_luz_verde.jpg",
+    "3_caras.jpg"
+   ],
+   "intentos": 0,
+   "n": "59",
+   "texto": "Diario #43 · Una cara que recibe la luz\n\nHoy he dado a ECO dos cosas que quería desde hace tiempo.\n\n• La cara de Chris abajo, al estilo Doom: 18 expresiones que cambian con lo que pasa (desmayado, golpes, heridas, miedo, leyendo, corriendo…). Parpadea y respira.\n• Y esa cara recibe la misma luz que Chris en la partida: si la luz le da de frente, se tiñe de su color; si le da por la espalda, solo se le enciende el contorno; a oscuras, se apaga.\n• El perchero con la bata ya es pixel art de verdad, con Pixel Vivo: sus cantos, solapas y bolsillos se encienden por el lado de la luz.\n• Con mando, el stick derecho apunta y puedes andar mientras apuntas.\n\n1 · La bata con luz roja\n2 · La misma bata con luz verde\n3 · Algunas caras del HUD\n\nPrototipo pre-alfa 0.2.218, gratis en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\nEN: A Doom-style face that catches the same light as the character on screen — and a lab coat that finally lights up like real pixel art.\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
+   "titulo": "Diario #43 · Una cara que recibe la luz",
+   "version_juego": "Pre-alfa 0.2.218"
   }
  ]
 }
