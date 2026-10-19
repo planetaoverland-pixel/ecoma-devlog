@@ -1075,9 +1075,10 @@
     "3_laboratorio.jpg"
    ],
    "texto": "Diario #41 · A oscuras\n\nEsta noche he apagado las luces del laboratorio. Ahora solo se ve bien lo que alumbra algo, como en el arte de referencia.\n\n• El laboratorio, el pasillo y el almacén, nuevos y a medida real: azulejo sucio, nevera de muestras, cables colgando y racimos de ecolita que salen del suelo.\n• Un cable roto chisporrotea, ilumina a su alrededor y da calambre si lo tocas.\n• Al primer golpe en la cristalera, las luces bajan, un fluorescente se suelta de su cadena y salta una alarma roja.\n• Los charcos reflejan lo que pasa encima y salpican al pisarlos.\n• Chris se agacha solo si no cabe y repta si el hueco es más bajo, como en el conducto de ventilación.\n• Ratas nuevas, latas que pateas sin querer y papeles que vuelan al correr.\n\n1 · El pasillo\n2 · El susto de la cristalera\n3 · El laboratorio\n\nPrototipo pre-alfa 0.2.215, gratis en ramsys.es/games/ecoma.\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #indiegame #madewithgodot",
-   "estado": "PENDIENTE",
+   "estado": "APROBADA",
    "intentos": 0,
-   "ia": false
+   "ia": false,
+   "aprobada_en": "2026-10-19 07:12"
   }
  ]
 }
